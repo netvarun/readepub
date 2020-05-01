@@ -1,0 +1,605 @@
+Requesting - https://picsum.photos/750/1000
+Requesting - https://medium.com/swlh/before-you-rush-into-another-difficult-decision-take-a-breath-f8af4e36b49e
+Title = Before You Rush Into Another Difficult Decision, Take A Breath - https://medium.com/swlh/before-you-rush-into-another-difficult-decision-take-a-breath-f8af4e36b49e
+{
+  title: 'Before You Rush Into Another Difficult Decision, Take A Breath - https://medium.com/swlh/before-you-rush-into-another-difficult-decision-take-a-breath-f8af4e36b49e',
+  data: '<div id="readability-page-1" class="page"><section><div><div><figure><div><div><div><div><p><img src="https://miro.medium.com/max/60/1*IREyC769qhABBk0NBumofg.jpeg?q=20" width="5452" height="3635" role="presentation"></p><p><img width="5452" height="3635" role="presentation"></p></div></div></div></div><figcaption>Photo by <a href="https://www.pexels.com/@burst?utm_content=attributionCopyText&amp;utm_medium=referral&amp;utm_source=pexels" target="_blank" rel="noopener nofollow">Burst </a>from <a href="https://www.pexels.com/photo/man-wearing-gray-long-sleeved-shirt-374598/?utm_content=attributionCopyText&amp;utm_medium=referral&amp;utm_source=pexels" target="_blank" rel="noopener nofollow">Pexels</a></figcaption></figure><p id="ce74"><h2>I’ve learnt a lot from making and watching people make mistakes.</h2></p><div><div><div><div><a rel="noopener" href="https://medium.com/@athirahsyamimi?source=post_page-----f8af4e36b49e----------------------"><div><p><img alt="Athirah Syamimi" src="https://miro.medium.com/fit/c/96/96/1*tHD1YMgJzsMXUMj7GX3oVw.jpeg" width="48" height="48"></p></div></a></div></div></div></div><p id="2f4c">These days, it’s a lot easier for me not to let my emotions control my decisions. But that wasn’t always the case.</p><p id="525c">I used to bring emotions to work, making me spend so time focusing on what other people are saying, doing and thinking of.</p><p id="1db1">There were times when I became too emotional and make decisions without considering the outcome. In the end, I hurt the people who truly cared about me.</p><blockquote><p>It took me a while to notice I’m repeating those same mistake of rushing into a decision.</p></blockquote><p id="8587">I didn’t weigh the pros and cons. Didn’t consider the snowball effect of that one decision. In a way, you could say that I was only thinking of the short-term outcome. And whatever you choose, you got to live with it.</p><ol><li id="9ec0">Why are you making this decision?</li><li id="4d8a">Will it make things better?</li><li id="f447">Are you going to hurt anyone with your decision? If you do, can you live with the guilt?</li><li id="8166">Is there a better solution?</li><li id="1323">Are you going against your moral beliefs?</li><li id="5f9c">How would your younger self react to your decision?</li><li id="d7cd">What would the 85-year-old you say about this?</li><li id="7eed">Maybe not immediately but in the future, will it make you happy?</li><li id="4253">What does your gut say?</li><li id="72b2">Have you consulted an expert or a third-party?</li></ol><p id="42da">If you can’t think of an answer for any of these questions, it’s best to clear your mind a bit. Go for a jog or a walk in the park, drown yourself in music, let yourself daydream or even meditate.</p><p id="bc5e">You don’t have to rush in making a decision. You don’t have to make the decision alone. It might not seem like it but there are people you can talk to.</p><p id="e780">If you have to make a decision now and you know (in your gut) that it is for the better, do it. No matter how hard it can be, some actions have to be done.</p></div></div></section></div>'
+}
+Requesting - http://mindingourway.com/deliberate-once
+Title = Deliberate Once - http://mindingourway.com/deliberate-once
+{
+  title: 'Deliberate Once - http://mindingourway.com/deliberate-once',
+  data: '<div id="readability-page-1" class="page"><div role="main">\n' +
+    '\n' +
+    '    <article>\n' +
+    '\n' +
+    '        \n' +
+    '\n' +
+    '        <section>\n' +
+    "            <p>Here's a question I get asked pretty regularly:</p>\n" +
+    '\n' +
+    '<blockquote>\n' +
+    `  <p>OK, I'm sold on this whole <a href="http://mindingourway.com/best-you-can/">"do the best you can"</a> thing, but how do you actually <em>commit?</em> When I look at my available options, <em>none</em> of them look great. I can take the one that seems best (despite its flaws), but then I keep doubting myself the whole time, and wondering whether there isn't something better I could be doing. For example, I'm currently [doing a PhD|running a startup|earning to give|working at an EA org], and I keep wondering whether I should instead be [switching majors|running a startup|earning to give|working at a different org], and I can't access conviction or resolve. How is it that you actually commit to what you're doing?</p>\n` +
+    '</blockquote>\n' +
+    '\n' +
+    "<p>My solution is fairly simple: Deliberate once, and then don't deliberate again until you get new information that would have changed the result of your deliberation.</p>\n" +
+    '\n' +
+    `<p>If you have a big decision to make, set aside some time to do some serious thinking. Ask people you trust for the <a href="http://mindingourway.com/obvious-advice/">obvious advice</a>, and then actually do it. Set some five-minute timers, spend time describing the problem before you spend time describing possible solutions, brainstorm a wide variety of solutions. Figure out where you're highly uncertain, find the places where your decision turns on a critical piece of information you're missing, and add actions like "run thus-and-such an experiment" to your set of available actions. Build models. Make your best guesses about the probabilities of various outcomes in response to your actions, make your best guesses about how good those outcomes are, multiply out an expected value calculation, throw the numbers out, and consult your updated intuitions. And so on.</p>\n` +
+    '\n' +
+    `<p>Whatever your "think seriously" process is, run it, and then pick the best action available to you (given the information you currently have, having taken into account the incompleteness of your situation). Then do that. Then <em>don't go back into deliberation mode until you encounter information that would have actually changed your answer.</em></p>\n` +
+    '\n' +
+    "<p>If you do it right, there's no need to go back to worrying about which thing you should be doing unless you encounter new evidence or information. When you do, deliberate again — or, better, plug the new evidence into the model you built when you deliberated the first time, instead of re-doing all that work. Half the reason for really deliberating hard the first time is to build a versatile model, anyway. (Though of course, evidence and experience will also cause you to update that model as you go.)</p>\n" +
+    '\n' +
+    '<hr>\n' +
+    '\n' +
+    '<p>Many people seem plagued by "am I doing the right thing?" thoughts which get in the way of them committing themselves to <em>any</em> action. I think there are at least three different types of "am I doing the right thing?" thoughts, each worth treating differently.</p>\n' +
+    '\n' +
+    `<p>First are the "but I am uncertain!" thoughts, which I refer to as "commitment-aversion thoughts". They appear when someone isn't confident in what they're doing in an absolute sense, regardless of whether they see any good alternatives, and the above advice is more or less advice geared towards shifting you into a mode where you aren't getting pinged with "but I am still uncertain!" thoughts all the time. However, it's important to distinguish the commitment-aversion thoughts (which I think are often in error) from two other similar-sounding thoughts which are quite important.</p>\n` +
+    '\n' +
+    `<p>Next are the "I just got new evidence that we're doing the wrong thing!" thoughts, which I refer to as "abort notices." Perhaps you decided to complete your econ PhD, and, three months in, you observe that you've been demotivated the whole time and that you've made almost no progress (which comes as a surprise to you). Or perhaps your friend from silicon valley tells you how high programmer salaries are these days, and that information would have changed your decision if you had know it six months ago, and you think "maybe it should also change my decision now." Or perhaps you read a blog post on the internet about a cognitive bias that you notice was distorting your decisions, and you are pretty sure that, without the bias, you'd be doing something else instead. Dealing with these sorts of abort notices is easy, so long as you don't quash them: Simply change your action, or (if you need to) go back into "heavy deliberation" mode. In these cases, be especially wary of the <a href="https://en.wikipedia.org/wiki/Sunk_costs">sunk cost fallacy</a> and consider taking <a href="http://mindingourway.com/be-a-new-homunculus/">measures to avoid it</a>.</p>\n` +
+    '\n' +
+    `<p>Third are the "I have a vague sense that I deliberated incorrectly but I can't articulate it yet" thoughts, which I refer to as "confusion pings." These thoughts are <em>very important,</em> and they can be pretty hard to distinguish from commitment-aversion thoughts. <em>Make sure that you don't steamroll your confusions in an attempt to squash commitment-aversion thoughts.</em> Noticing and respecting confusion pings is a <a href="http://lesswrong.com/lw/if/your_strength_as_a_rationalist/">core rationalist skill</a>, and if some part of you feels an ineffable hard-to-articulate concern with what you're doing, then the solution is not to shove it under the rug, the solution is to pay very close attention to it. <a href="http://lesswrong.com/lw/o4/leave_a_line_of_retreat/">Leave yourself a line of retreat</a>, ask yourself what thoughts you're not allowing yourself to think and what actions you're not allowing yourself to consider, and ask yourself questions like "If I changed the course of my life and looked back on this moment in two years, what would I think I was missing?" Human deliberation is a flawed and fallible process, and confusion pings are sometimes the only hint you ever get of a giant gaping blind spot in your deliberation process. In my experience, handling confusion pings (and learning to articulate your inarticulable concerns) is a skill that requires practice, and it's a skill that I have found very valuable.</p>\n` +
+    '\n' +
+    '<p>On my current best model of where the "am I doing the right thing?" thoughts come from, they tend to come from one of two places. Either (a) some part of you is concerned that your deliberation was dangerously biased, flawed, or otherwise invalid; or (b) some part of you is not yet comfortable in the face of uncertainty. On this model, I suggest a two-pronged method for dealing with commitment-aversion thoughts. First, treat them as if they might be confusion pings: Learn to inspect them and extract content from them, especially content of the form "I think I have been ignoring factor X" or "I think I have been under-weighing concern Y." Second, learn to be comfortable in the face of high uncertainty, and develop a deliberation procedure of your own that deserves <a href="http://mindingourway.com/confidence-all-the-way-up/">appropriate meta-confidence</a>.</p>\n' +
+    '\n' +
+    "<p>Operating under uncertainty is the norm, not the exception. No matter how hard you deliberate, your deliberation procedure is going to be flawed and biased, and there are going to be considerations you're missing and evidence you failed to take into account. It is very hard to predict the consequences of your actions, and you aren't going to get a perfect answer. However, some answers are still better than others, and you can construct a process for choosing between actions that leaves you comfortable that you're doing the best you can do with the information and time available.</p>\n" +
+    '\n' +
+    '<hr>\n' +
+    '\n' +
+    `<p>When you've committed yourself to a new action, and you start wondering whether you're really doing the right thing, the relevant question is not "were my thoughts when I chose this action perfectly unbiased?" Nor is it "did I find literally the best available action?" No, the relevant question is, "am I in a better position <em>now</em> to pick a good action than I was <em>then?</em>", or alternatively, "could I do a significantly better job picking an action this time around than I did last time around, enough so to make up for the opportunity cost of deliberating again?"</p>\n` +
+    '\n' +
+    "<p>The only information that affects your actions is information that changes which action you would think is better after deliberating. This is true regardless of how much uncertainty you have. Think hard, pick the best action, and then don't worry about what action you're doing until you see something that would have changed the result of the hard thinking. If you understand this on a gut level, and if you're one of the people who has found my advice helpful in the past, then I predict that this mindset is one where you won't experience constant doubt about whether you're doing the right thing. Deliberate well once, and then don't deliberate again until you come across new information that would have changed your answer.</p>\n" +
+    '        </section>\n' +
+    '\n' +
+    '        \n' +
+    '\n' +
+    '\n' +
+    '\t<!--<div id="disqus_thread"></div>\n' +
+    '\t<script type="text/javascript">\n' +
+    "\t\tvar disqus_shortname = 'so8res';\n" +
+    "\t\tvar disqus_identifier = '91';\n" +
+    '\t\t(function() {\n' +
+    "\t\t\tvar dsq = document.createElement('script');\n" +
+    "\t\t\tdsq.type = 'text/javascript'; dsq.async = true;\n" +
+    "\t\t\tdsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';\n" +
+    "\t\t\t(document.getElementsByTagName('head')[0] ||\n" +
+    "\t\t\t\tdocument.getElementsByTagName('body')[0]).appendChild(dsq);\n" +
+    '\t\t})();\n' +
+    '\t</script>\n' +
+    '\t<noscript>Please enable JavaScript to view the\n' +
+    '\t\t<a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a>\n' +
+    '\t</noscript>\n' +
+    '\t<a href="http://disqus.com" class="dsq-brlink">comments powered by\n' +
+    '\t\t<span class="logo-disqus">Disqus</span></a>-->\n' +
+    '\n' +
+    '    </article>\n' +
+    '\n' +
+    '</div></div>'
+}
+Requesting - https://news.ycombinator.com/item?id=22053747
+Title = You Bet [pdf] | Hacker News - https://news.ycombinator.com/item?id=22053747
+Requesting - https://www.oaktreecapital.com/docs/default-source/memos/you-bet.pdf
+Skipping PDF - https://www.oaktreecapital.com/docs/default-source/memos/you-bet.pdf
+SKIP - https://news.ycombinator.com/item?id=22053747
+Requesting - https://twitter.com/naval/status/1017619107196297216
+Domain blacklist - skipping twitter.com
+Requesting - https://fs.blog/2015/06/books-on-decision-making
+Title = 39 Books to Improve your Decision Making Skills - https://fs.blog/2015/06/books-on-decision-making
+{
+  title: '39 Books to Improve your Decision Making Skills - https://fs.blog/2015/06/books-on-decision-making',
+  data: '<div id="readability-page-1" class="page"><article id="post-20875">\n' +
+    '\n' +
+    '<!-- .entry-header -->\n' +
+    '\n' +
+    '<div>\n' +
+    '<p>Who can you ask for book recommendations on decision making? At <a href="https://fs.blog/2015/06/rethink-dm-aristotle-quote.jpg">Re:Think Decision Making</a>, I asked a crowd that one former ivy league professor called “the best public crowd he’s ever seen” what they would recommend reading.&nbsp;These people are paid to make decisions for a living and want to find every edge they can.</p>\n' +
+    '<p>So when I asked them what books on decision making influenced them,&nbsp;you can bet they had a lot to say.</p>\n' +
+    '<p>Here’s the list in no particular order:</p>\n' +
+    '<h3><a href="http://www.amazon.com/gp/product/0307956393/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0307956393&amp;linkCode=as2&amp;tag=farnamstreet-20&amp;linkId=OBBY5OXN7U6T6D7U" rel="nofollow">1. Decisive: How to Make Better Choices in Life and Work</a></h3>\n' +
+    '<p>By: Chip &amp; Dan Heath</p>\n' +
+    '<blockquote><p>Research has shown time and time again how irrational humans are in our thinking. We’re overconfident. We seek out information that supports us and downplay information that doesn’t. We get distracted by short-term emotions. When it comes to making choices, it seems, our brains are flawed instruments. Unfortunately, merely being aware of these shortcomings doesn’t fix the problem, any more than knowing that we are nearsighted helps us to see.</p>\n' +
+    '<p>Well researched and well written, this book offers a 4 step process to help overcome our natural biases and make better decisions. On a side, if you’ve read <em>Switch</em> or <em>Made to Stick </em>you know how fun and easy a Heath brothers book is to read. This one is no different.</p></blockquote>\n' +
+    '<h3><a href="http://www.amazon.com/gp/product/1118539273/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=1118539273&amp;linkCode=as2&amp;tag=farnamstreet-20&amp;linkId=PZAKHL2T4HICWAYK" rel="nofollow">2. How to Measure Anything</a></h3>\n' +
+    '<p>By: Douglas Hubbard</p>\n' +
+    '<blockquote><p>Peter Drucker famously said, “What gets measured, gets managed.” But how do you measure things as nebulous as customer satisfaction, organizational flexibility or the ROI of technology?</p>\n' +
+    '<p>Written by recognized expert Douglas Hubbard—creator of Applied Information Economics—<em>How to Measure Anything</em> illustrates how the author has used his approach across various industries and how any problem, no matter how difficult, ill defined, or uncertain can lend itself to measurement (and therefore improvement) using proven methods.</p></blockquote>\n' +
+    '<h3><a href="http://www.amazon.com/gp/product/1500615994/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=1500615994&amp;linkCode=as2&amp;tag=farnamstreet-20&amp;linkId=4MAM6MLWJLVMHLEH" rel="nofollow">3. How to Make Sense of Any Mess: Information Architecture for Everybody</a></h3>\n' +
+    '<p>By: Abby Covert</p>\n' +
+    '<blockquote><p>According to the author, every “mess” has a similar structure. Whether we’re dealing with a crisis at work or at home, find ourselves in a muck with other people, or are trying to make sense of the deluge of information all around us, this book offers a 7 step process for making sense of it all. No mess is too big once you know how to properly tackle one.</p></blockquote>\n' +
+    '<h3><a href="http://www.amazon.com/gp/product/1422122999/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=1422122999&amp;linkCode=as2&amp;tag=farnamstreet-20&amp;linkId=YIWNEKBGTVY3IGKQ" rel="nofollow">4. Wiser: Getting Beyond Groupthink to Make Groups Smarter</a></h3>\n' +
+    '<p>By: Cass Sunstein &amp; Reid Hastie</p>\n' +
+    '<blockquote><p>If you work with groups of people in any way, this is a great read with lots of useful nuggets. We tend to assume that a group of bright minds working together to solve a problem would yield the best outcome, but research has shown that isn’t always the case. In fact, we tend to sabotage our own results by giving the most weight to the positions stated first, shared the loudest, or held in common with the rest of the group. In <em>Wiser,</em> you’ll not only learn how to avoid the pitfalls that plague so many meetings today, but how to get the best out of those participating, so your collective decision making becomes more effective, more productive, and a better investment of time.</p></blockquote>\n' +
+    '<h3><a href="http://www.amazon.com/gp/product/0615893376/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0615893376&amp;linkCode=as2&amp;tag=farnamstreet-20&amp;linkId=MIARGIESCQ4BCLEJ" rel="nofollow">5. The Surprising Power of Liberating Structures: Simple Rules to Unleash A Culture of Innovation</a></h3>\n' +
+    '<p>By: Henri Lipmanowicz &amp; Keith McCandless</p>\n' +
+    '<blockquote><p>Whether you are a teacher, a manager, a parent, or a leader in any way, you know how frustrating it can be when the individuals you’re trying to lead aren’t fully engaged. It’s bad for the organization, it’s bad for productivity, and quite frankly, it’s bad for the individual. <em>The Surprising Power of Liberating Structures</em> explores practical methods to help people get engaged and invested in what they’re doing — and feel personal satisfaction from doing it.</p></blockquote>\n' +
+    '<h3><a href="http://www.amazon.com/gp/product/0596804172/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0596804172&amp;linkCode=as2&amp;tag=farnamstreet-20&amp;linkId=CEDPT27VHJQBENTS" rel="nofollow">6. Gamestorming: A Playbook for Innovators, Rulebreakers, and Changemakers</a></h3>\n' +
+    '<p>By: Dave Gray, Sunni Brown &amp; James Macanufo</p>\n' +
+    '<blockquote><p>If your work environment isn’t one where employees feel safe to share their ideas and interact freely with one another, you can’t expect to accomplish anything significant. You’ll always be chugging along at less than full capacity. That’s where this book comes in. It provides over 80 games that are specifically designed to break down barriers, foster communication, and get the creative juices flowing.</p></blockquote>\n' +
+    '<h3><a href="http://www.amazon.com/gp/product/0307455777/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0307455777&amp;linkCode=as2&amp;tag=farnamstreet-20&amp;linkId=7FS2PQHEDP2P7ROZ" rel="nofollow">7. The Righteous Mind: Why Good People are Divided by Politics and Religion</a></h3>\n' +
+    '<p>By: Jonathan Haidt</p>\n' +
+    '<blockquote><p>Think you’re absolutely right on the hot political, social or religious debate of the day? Before you get into it with your brother-in-law over Thanksgiving dinner, make sure you read this book. Jonathan Haidt does a masterful job of showing that the other side isn’t as crazy as we think, and in fact, we’re all a bit more crazy than we’d like to admit. He draws on decades of research to show that what we consider to be moral judgments are not formed by sound reasoning, but by intuition. Understanding why and how that happens is critical to understanding each other. And a necessary part of <a href="https://fs.blog/2013/04/the-work-required-to-have-an-opinion/">having an opinion. </a></p></blockquote>\n' +
+    '<h3><a href="http://www.amazon.com/gp/product/0887306314/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0887306314&amp;linkCode=as2&amp;tag=farnamstreet-20&amp;linkId=OKTNYC2N7MQ6HAM3" rel="nofollow">8. Yes or No: The Guide to Better Decisions</a></h3>\n' +
+    '<p>By: Spencer Johnson</p>\n' +
+    '<blockquote><p><em>Who Moved My Cheese?</em> gets a lot of love, but Spencer Johnson’s book on decision making deserves way more attention than it gets. In my opinion, it’s his best book. And it’s short, practical and easy to apply. You could read this over your lunch break and be a better thinker before you even finish your sandwich.</p></blockquote>\n' +
+    '<h3><a href="http://www.amazon.com/gp/product/034553025X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=034553025X&amp;linkCode=as2&amp;tag=farnamstreet-20&amp;linkId=OCZFGIPU6KY4CNV3" rel="nofollow">9. The Little Book of Talent</a></h3>\n' +
+    '<p>By: Daniel Coyle</p>\n' +
+    '<blockquote><p>This is a great companion piece to the <em>Talent Code</em> by the same author, but definitely stands on its own. Where that book is more about the science and research behind developing talent, <em>The Little Book of Talent </em>gives you the “how to” with over 50 specific exercises you can start using today to improve whatever skill you’re working on — whether it’s art, music, sports, or cooking eggs. This book will help you get better, faster.</p></blockquote>\n' +
+    '<h3><a href="http://www.amazon.com/gp/product/0307718247/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0307718247&amp;linkCode=as2&amp;tag=farnamstreet-20&amp;linkId=IKFE3LPUBAA7CMDS" rel="nofollow">10. The Worry Solution: Using Breakthrough Brain Science to Turn Stress and Anxiety into Confidence and Happiness</a></h3>\n' +
+    '<p>By: Martin Rossman</p>\n' +
+    '<blockquote><p>Seneca once said, “He who suffers before it is necessary suffers more than is necessary.” Often, that unnecessary suffering comes from excessive worrying. I get it, there’s plenty to worry about today — kids, finances, your career, relationships — the list is endless. This book offers practical and actionable steps to get worry under control, so it stops adding unnecessary stress and anxiety to your life.</p></blockquote>\n' +
+    '<h3><a href="http://www.amazon.com/gp/product/0312330537/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0312330537&amp;linkCode=as2&amp;tag=farnamstreet-20&amp;linkId=FY64VW3GRQPJX2J6" rel="nofollow">11. Shantaram: A Novel</a></h3>\n' +
+    '<p>By: Gregory David Roberts</p>\n' +
+    '<blockquote><p>One of the only novels on the list, <em>Shantaram</em> is less of a book on how to make decisions, but rather a fascinating case study on how the direction of our life is inextricably tied to the decisions we make. At nearly 1000 pages, this is not an afternoon read, but it is a thrilling ride that doesn’t slow down once it starts rolling. From the inside cover:</p>\n' +
+    '<p><em>Shantaram is narrated by Lin, an escaped convict with a false passport who flees maximum security prison in Australia for the teeming streets of a city where he can disappear. </em><em>Burning slums and five-star hotels, romantic love and prison agonies, criminal wars and Bollywood films, spiritual gurus and mujahideen guerrillas—this huge novel has the world of human experience in its reach, and a passionate love for India at its heart. Based on the life of the author, it is by any measure the debut of an extraordinary voice in literature.</em></p></blockquote>\n' +
+    '<h3><a href="http://www.amazon.com/gp/product/0061286052/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0061286052&amp;linkCode=as2&amp;tag=farnamstreet-20&amp;linkId=FWL5ZTNS7S5TOBOI" rel="nofollow">12. The Art of Living</a></h3>\n' +
+    '<p>By: Epictetus</p>\n' +
+    '<blockquote><p>One of the most influential Stoic thinkers, Epictetus was born into slavery about 55 ce in the eastern outreaches of the Roman Empire. Once freed, he established a school of Stoic philosophy, stressing that human beings cannot control life, only their responses to it. By putting into practice the ninety-three witty, wise, and razor-sharp instructions that make up The Art of Living, you’ll learn to meet the challenges of everyday life successfully and to face life’s inevitable losses and disappointments with grace.</p></blockquote>\n' +
+    '<h3><a href="http://www.amazon.com/gp/product/1137278811/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=1137278811&amp;linkCode=as2&amp;tag=farnamstreet-20&amp;linkId=GFISGZFLOINWUH6H" rel="nofollow">13. The Education of a Value Investor</a></h3>\n' +
+    '<p>By: Guy Spier</p>\n' +
+    '<blockquote><p>This book packs a lot into its pages. It’s both a priceless education in value investing, and a riveting story of personal transformation. Among other valuable lessons, you’ll discover how a $600,000+ lunch with Warren Buffet turned out to be one of the best (and high yielding) investments author Guy Spier ever made.</p></blockquote>\n' +
+    '<h3><a href="http://www.amazon.com/gp/product/0452281806/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0452281806&amp;linkCode=as2&amp;tag=farnamstreet-20&amp;linkId=CIDCTQ7O3NCXJNEE" rel="nofollow">14. Devil Take the Hindmost: a History of Financial Speculation</a></h3>\n' +
+    '<p>By: Edward Chancellor</p>\n' +
+    '<blockquote><p>Before you drop a dime into that hot tech stock your co-worker is raving about, pick up this book. The author takes a hard look at both the psychological and economic forces that drive people to “bet” their money in markets; how markets are made, unmade, manipulated; and who wins when speculation runs rampant.</p></blockquote>\n' +
+    '<h3><a href="http://www.amazon.com/gp/product/1613430647/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=1613430647&amp;linkCode=as2&amp;tag=farnamstreet-20&amp;linkId=BPWKWDSEXLZA3TEI" rel="nofollow">15. Click: The Art and Science of Getting from Impasse to Insight</a></h3>\n' +
+    '<p>By: Eve Grodnitzky</p>\n' +
+    '<blockquote><p>Wouldn’t it be nice if we could be inspired on demand? Get a fresh jolt of energy, insights and creativity when we’ve hit the wall? According to author Eve Grodnitsky, we can. In Click, she provides a 7 step methodology to take someone from “impasse to insight.” Drawing on the latest research and her own analysis of hundreds of real-life insight stories, Dr. Grodnitzky explains how insight actually works and how to have more of these eureka moments at work and in life.</p></blockquote>\n' +
+    '<h3><a href="http://www.amazon.com/gp/product/1610391845/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=1610391845&amp;linkCode=as2&amp;tag=farnamstreet-20&amp;linkId=5DEENCBSJE2Q7BQD" rel="nofollow">16. The Dictator’s Handbook: Why Bad Behavior is Almost Always Good Politics</a></h3>\n' +
+    '<p>By: Bruce Bueno de Mesquita</p>\n' +
+    '<blockquote><p>The authors of this book make a bold claim: leaders do whatever keeps them in power, regardless of the national interest. And while there are clear differences between a liberal democracy and a dictatorship, the common thread through both is the same — scratch the right backs, and keep the people in the dark. This is an entertaining, yet at times unsettling, manual for gaining and preserving power — akin to Machiavelli’s<em> The Prince. </em></p></blockquote>\n' +
+    '<h3><a href="http://www.amazon.com/gp/product/1591842697/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=1591842697&amp;linkCode=as2&amp;tag=farnamstreet-20&amp;linkId=5MXJW64554KTRFJC" rel="nofollow">17. The Back of the Napkin &amp; How to Solve Problems and Sell Ideas</a></h3>\n' +
+    '<p>By: Dan Roan</p>\n' +
+    '<blockquote><p>Have you ever had a hard time expressing a complex idea to someone? In this book, author Dan Roan suggests using fewer words and more pictures. He shows how a few simple drawings done the right way can clarify any problem or sell any idea to your audience — whether that’s one person or a full auditorium.</p></blockquote>\n' +
+    '<h3><a href="http://www.amazon.com/gp/product/037575931X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=037575931X&amp;linkCode=as2&amp;tag=farnamstreet-20&amp;linkId=DANWYET5WUOMXUHY" rel="nofollow">18. Crossing to Safety</a></h3>\n' +
+    '<p>By: Wallace Stegner</p>\n' +
+    '<blockquote><p>One of only three novels on the list. From the inside flap:</p>\n' +
+    '<p><em>Called a “magnificently crafted story . . . brimming with wisdom” by Howard Frank Mosher in The Washington Post Book World, Crossing to Safety has, since its publication in 1987, established itself as one of the greatest and most cherished American novels of the twentieth century. Tracing the lives, loves, and aspirations of two couples who move between Vermont and Wisconsin, it is a work of quiet majesty, deep compassion, and powerful insight into the alchemy of friendship and marriage.</em></p></blockquote>\n' +
+    '<h3><a href="http://www.amazon.com/gp/product/0060005696/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0060005696&amp;linkCode=as2&amp;tag=farnamstreet-20&amp;linkId=D4MUSSY556IECSSG" rel="nofollow">19. Paradox of Choice: Why More is Less</a></h3>\n' +
+    '<p>By: Barry Schwartz</p>\n' +
+    '<blockquote><p>No matter what you’re in the market for, you have options. Lots of them. Where to invest your money, how to order your coffee, what to wear, and don’t even get me started on the menu at the Cheesecake Factory.</p>\n' +
+    '<p>In <em>Paradox of Choice, </em>Schwartz makes the counter intuitive case that too many options can actually be a bad thing — and eliminating choices can reduce the stress, anxiety, and busyness of our lives. He offers 11 practical steps to limit choices to a manageable number, have the discipline to focus on the ones that are important, and derive greater satisfaction from the choices you have to make.</p></blockquote>\n' +
+    '<h3><a href="http://www.amazon.com/gp/product/0262516721/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0262516721&amp;linkCode=as2&amp;tag=farnamstreet-20&amp;linkId=5FXIZR5VKHAQW7TG" rel="nofollow">20. Streetlights and Shadows: Searching for the Keys to Adaptive Decision Making</a></h3>\n' +
+    '<p>By: Gary Klein</p>\n' +
+    '<blockquote><p>When making an important decision, should you go with your gut or lean more on logic and statistics? The answer may not be as clear cut as you’d expect, and each situation requires its own approach. In <em>Streetlights and Shadows, </em>Gary Klein debunks the conventional wisdom about how to make decisions. He takes ten commonly accepted claims about decision making and shows that they are better suited for the laboratory than for life — and what we should do instead.</p></blockquote>\n' +
+    '<h3><a href="http://www.amazon.com/gp/product/0812979370/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0812979370&amp;linkCode=as2&amp;tag=farnamstreet-20&amp;linkId=YLEEFDRJIJC7KI7T" rel="nofollow">21. The Social Animal</a></h3>\n' +
+    '<p>By: David Brooks</p>\n' +
+    '<blockquote><p><em>The Social Animal</em> weaves the narrative of a fictional American couple (from birth to old age) with the most recent research on social and cognitive science to illustrate how we develop during different stages of our lives. Brooks paints a new and refreshing view of humanity and what it really means to be successful.</p></blockquote>\n' +
+    '<h3><a href="http://www.amazon.com/gp/product/0262134721/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0262134721&amp;linkCode=as2&amp;tag=farnamstreet-20&amp;linkId=K3Y7VLHEASXNRTH3" rel="nofollow">22. The Laws of Simplicity</a></h3>\n' +
+    '<p>By: John Maeda</p>\n' +
+    '<blockquote><p>In this short but engaging read, graphic designer and computer scientist Maeda proposes ten laws for simplifying complex systems in business and life (but mostly focuses on product design.) Maeda’s upbeat explanations break down the power of less — fewer features, fewer buttons and fewer distractions — while providing practical strategies for harnessing that power.</p></blockquote>\n' +
+    '<h3><a href="http://www.amazon.com/gp/product/014311526X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=014311526X&amp;linkCode=as2&amp;tag=farnamstreet-20&amp;linkId=5N6GBDYYI6ZXRZRQ" rel="nofollow">23. Nudge: Improving Decisions about Health, Wealth and Happiness</a></h3>\n' +
+    '<p>By: Richard H. Thaler</p>\n' +
+    '<blockquote><p>By now, it shouldn’t surprise you to learn that humans are inherently bad at making decisions. And only through understanding and being aware of our biases can we ever hope to get better at it. This is a well written and easy to read book, written by Richard Thaler (who happens to be a Nobel Prize winner.) If you want to improve your own decision making, and also learn how to “nudge” those you care about towards making better choices as well, grab this book.</p></blockquote>\n' +
+    '<h3><a href="http://www.amazon.com/gp/product/0471770884/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0471770884&amp;linkCode=as2&amp;tag=farnamstreet-20&amp;linkId=CTKFFWAN3CFHONCW" rel="nofollow">24. Reminiscences of a Stock Operator</a></h3>\n' +
+    '<p>By: Edwin Lefevre &amp; Roger Lowenstein</p>\n' +
+    '<blockquote><p>First published in 1923, <em>Reminiscences of a Stock Operator</em> is perhaps the most widely read, highly recommended investment book ever. And after nearly 100 years on the shelves, it’s just as relevant today as it was when it was first written. Generations of readers have found that it has more to teach them about markets and people than years of hands-on experience.</p></blockquote>\n' +
+    '<h3><a href="http://www.amazon.com/gp/product/0062109391/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0062109391&amp;linkCode=as2&amp;tag=farnamstreet-20&amp;linkId=L27YKIS27A43PJ5J" rel="nofollow">25. This Will Make You Smarter</a></h3>\n' +
+    '<p>By: John Brockman</p>\n' +
+    '<blockquote><p>“What scientific concept would improve everybody’s cognitive toolkit?”</p>\n' +
+    '<p>This is the question John Brockman posed to the world’s most influential thinkers. This book is a collection of their answers. Daniel Kahneman, Nassim Nicholas Taleb, Richard Dawkins, Brian Eno, Steven Pinker, Lisa Randall — the list goes on and on. You’ll definitely pick up something new and immediately useful in this book.</p></blockquote>\n' +
+    '<h3><a href="http://www.amazon.com/gp/product/1620401452/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=1620401452&amp;linkCode=as2&amp;tag=farnamstreet-20&amp;linkId=KLLI6TEBC36S4TDR" rel="nofollow">26. A More Beautiful Question: The Power of Inquiry to Spark Breakthrough Ideas</a></h3>\n' +
+    '<p>By: Warren Berger</p>\n' +
+    '<blockquote><p>In<em> A More Beautiful Question</em>, Warren Berger makes the compelling argument that our outcomes are directly tied to the quality of questions we’re willing to ask. By showing how to approach questioning with an open, curious mind and a willingness to work through a series of “Why,” “What if,” and “How” queries, Berger offers an inspiring framework of how we can all arrive at better solutions, fresh possibilities, and greater success in business and life.</p>\n' +
+    '<p>Pairs nicely with <a href="https://fs.blog/2017/12/warren-berger/">this podcast interview. </a>;)</p></blockquote>\n' +
+    '<h3><a href="http://www.amazon.com/gp/product/147675571X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=147675571X&amp;linkCode=as2&amp;tag=farnamstreet-20&amp;linkId=SJKTEM4D274OGO4F" rel="nofollow">27. Red Notice: A True Story of High Finance, Murder, and One Man’s Fight for Justice</a></h3>\n' +
+    '<p>By: Bill Browden</p>\n' +
+    '<blockquote><p>I’ve talked about this book before and it remains high on my personal recommendation list. It’s hard to believe this story recounts actual events — it reads just like a fictional crime thriller and was difficult for me to put down. If you’re into conspiracies, crime, and politics — run for office. Just kidding, get this book.</p></blockquote>\n' +
+    '<h3><a href="http://www.amazon.com/gp/product/0684853949/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0684853949&amp;linkCode=as2&amp;tag=farnamstreet-20&amp;linkId=COYICDBL6UUYAZ45" rel="nofollow">28. The Man who Mistook his Wife for a Hat</a></h3>\n' +
+    '<p>By: Oliver Sacks</p>\n' +
+    '<blockquote><p>This book is a collection of some of the most bizarre, fascinating, and at times heartbreaking stories of people afflicted with a variety of neurological disorders. We learn about patients who are no longer able to recognize people and common objects; who are stricken with violent tics and grimaces or who shout involuntary obscenities; whose limbs have become alien; and who have been dismissed as retarded yet are gifted with uncanny artistic or mathematical talents.</p></blockquote>\n' +
+    '<h3><a href="http://www.amazon.com/gp/product/0300196539/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0300196539&amp;linkCode=as2&amp;tag=farnamstreet-20&amp;linkId=DS5DI7KTET77P6OQ" rel="nofollow">29. Imprudent King: A New Life of Philip II</a></h3>\n' +
+    '<p>By: Geoffrey Parker</p>\n' +
+    '<blockquote><p>Philip II is not only the most famous king in Spanish history, but one of the most famous monarchs in English history: the man who married Mary Tudor and later launched the Spanish Armada against her sister Elizabeth I.</p>\n' +
+    '<p>This book examines Philip’s long apprenticeship; his three principal interests (work, play, and religion); and the major political, military, and personal challenges he faced during his long reign. Parker offers fresh insights into the causes of Philip’s leadership failures: was his empire simply too big to manage, or would a monarch with different talents and temperament have fared better?</p></blockquote>\n' +
+    '<h3><a href="http://www.amazon.com/gp/product/1578644283/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=1578644283&amp;linkCode=as2&amp;tag=farnamstreet-20&amp;linkId=27D37KKSQDUETFWM" rel="nofollow">30. Seeking Wisdom</a></h3>\n' +
+    '<p>By: Peter Bevelin</p>\n' +
+    '<blockquote><p>Inspired by the wisdom of Charlie Munger, <em>Seeking Wisdom</em> is a compendium of the big ideas that shape the way we see and interact with the world. This book is one of my personal favorites and has had a massive impact on how I think and view reality. (Get it.)</p></blockquote>\n' +
+    '<h3><a href="http://www.amazon.com/gp/product/014312417X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=014312417X&amp;linkCode=as2&amp;tag=farnamstreet-20&amp;linkId=PBZ72IXNQ7K6QP7A" rel="nofollow">31. Mastery</a></h3>\n' +
+    '<p>By: Robert Greene</p>\n' +
+    '<blockquote><p>Robert Greene insists that we all have it within us to be masters. And in <em>Mastery</em>, he provides the formula. The same formula that was used by great historical figures such as Charles Darwin, Mozart, Paul Graham and Henry Ford.</p></blockquote>\n' +
+    '<h3><a href="http://www.amazon.com/gp/product/B0051ANRBI/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B0051ANRBI&amp;linkCode=as2&amp;tag=farnamstreet-20&amp;linkId=4RX3DVICAZEXR4WR" rel="nofollow">32. Synchronicity: The Innes Path of Leadership</a></h3>\n' +
+    '<p>By: Joseph Jaworski</p>\n' +
+    '<blockquote><p>“Synchronicity” is the term used to describe the feeling that everything in life — the ups, the downs, the disasters and the triumphs, seem to work together for your good. Author Joseph Jaworski argues that the right state of mind will make you the kind of person who can enlist the cooperation of fate and take advantage of synchronicity, creating the conditions for “predictable miracles.”</p></blockquote>\n' +
+    '<h3><a href="http://www.amazon.com/gp/product/1610392507/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=1610392507&amp;linkCode=as2&amp;tag=farnamstreet-20&amp;linkId=BLVAJARONSY6L4JH" rel="nofollow">33. The Culture Map: Breaking Through the Invisible Boundaries of Global Business</a></h3>\n' +
+    '<p>By: Erin Meyer</p>\n' +
+    '<blockquote><p>Americans precede anything negative with three nice comments; French, Dutch, Israelis, and Germans get straight to the point; Latin Americans and Asians are steeped in hierarchy; Scandinavians think the best boss is just one of the crowd. It’s no surprise that when they try and talk to each other, chaos breaks out. This is the book to help you navigate those tricky and potentially awkward misunderstandings.</p></blockquote>\n' +
+    '<h3><a href="http://www.amazon.com/gp/product/0609809989/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0609809989&amp;linkCode=as2&amp;tag=farnamstreet-20&amp;linkId=EH6B72ACX7VDXKZD" rel="nofollow">34. Ubiquity: Why Catastrophes Happen</a></h3>\n' +
+    '<p>By: Mark Buchanan</p>\n' +
+    '<blockquote><p>Critically acclaimed science journalist, Mark Buchanan tells the fascinating story of the discovery that there is a natural structure of instability woven into the fabric of our world, which explains why catastrophes — both natural and human — happen.</p></blockquote>\n' +
+    '<h3><a href="http://www.amazon.com/gp/product/1118171411/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=1118171411&amp;linkCode=as2&amp;tag=farnamstreet-20&amp;linkId=AZLTFL6JFHWKOHDG" rel="nofollow">35. Family Fortunes</a></h3>\n' +
+    '<p>By: Bill Bonner</p>\n' +
+    '<blockquote><p>In Family Fortunes, father-and-son team Bill and Will Bonner present a radical new way to look at family money along with the practical advice you need to build — and maintain — multi-generational wealth. Filled with invaluable advice for making money and keeping it in the family, the book illustrates why family money is the most dynamic, forward-looking capital in the world, and how your family can cash in on it for generations to come.</p></blockquote>\n' +
+    '<h3><a href="http://www.amazon.com/gp/product/006124189X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=006124189X&amp;linkCode=as2&amp;tag=farnamstreet-20&amp;linkId=2EGF7UY2AGS3AYOB" rel="nofollow">36. Influence: The Psychology of Persuasion</a></h3>\n' +
+    '<p>By: Robert Cialdini</p>\n' +
+    '<blockquote><p>Considered by many to be the Bible of persuasion, Dr. Cialdini’s <em>Influence</em> was one of the first books to explore the irrationality of human decision making and helped put the field of behavioral economics on the map. Through dozens of fascinating real life studies, you’ll learn the six universal principles, how to use them to become a skilled persuader—and how to defend yourself against them.</p></blockquote>\n' +
+    '<h3><a href="http://www.amazon.com/gp/product/0812979680/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0812979680&amp;linkCode=as2&amp;tag=farnamstreet-20&amp;linkId=VQDDGLO3U6LDZ6IJ" rel="nofollow">37. Antifragile: Things That Gain from Disorder</a></h3>\n' +
+    '<p>By: Nassim Nicholas Taleb</p>\n' +
+    '<blockquote><p>Fragile systems break under stress, robust systems resist it, and antifragile systems benefit from it. That’s the premise of Taleb’s groundbreaking work, <em>Antifragile. </em>That we should not only prepare for risk, uncertainty and chaos, but invite it, is a revolutionary idea, but Taleb makes a strong case. Throughout the book, he explores the state of politics, urban planning, finances, economics and medicine to illustrate the necessity of building antifragile systems if we want to thrive in this world.</p></blockquote>\n' +
+    '<h3><a href="http://www.amazon.com/gp/product/1578645018/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=1578645018&amp;linkCode=as2&amp;tag=farnamstreet-20&amp;linkId=XFBFQSGIQYDIPWGI" rel="nofollow">38. Poor Charlie’s Almanack: The Wit and Wisdom of Charles T. Munger</a></h3>\n' +
+    '<p>By: Peter D. Kaufman &amp; Charlie T. Munger</p>\n' +
+    '<blockquote><p>Pound for pound, one of the most important books I’ve ever read, and one that has had a profound impact on my thinking. It should be no surprise to readers of FS that Charlie Munger and Warren Buffet are the two people who have influenced me the most, and this book is a collection of much of the wisdom that attracted me to their philosophies on life, investing, and how I look at the world. And yes, while the book is a little pricier than most, if it were 20x the price, it would still be an amazing value.</p></blockquote>\n' +
+    '<h3><a href="http://www.amazon.com/gp/product/0143113100/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0143113100&amp;linkCode=as2&amp;tag=farnamstreet-20&amp;linkId=RP77FVXM7P56FDKQ" rel="nofollow">39. The Brain that Changes Itself</a></h3>\n' +
+    '<p>By: Norman Doidge</p>\n' +
+    '<blockquote><p>For centuries it was thought that the brain stopped developing after a period of time, and that it was a very rigid process. In this book, Norman Doidge explores what scientists call “neuroplasticity” and how nearly everything we once believed about the brain is wrong. The brain is fluid, constantly remapping and rewiring to make its job more efficient. Dr. Doidge shares powerful stories of people who relearn to speak after a stroke, overcome debilitating vertigo, even a blind man who learns to “see.” As it turns out, you <em>can</em> teach an old dog new tricks.</p></blockquote>\n' +
+    '<p>And there you have it — a list of books on decision making that should give you a great starting point. Let us know if there was a book we missed that needs to be on the list!</p>\n' +
+    '\n' +
+    '<!-- single-post-fslogo -->\n' +
+    '\n' +
+    '<!-- column100 -->\n' +
+    '\n' +
+    '\n' +
+    '<!-- <-?php if ( is_user_logged_in() ) :?> -->\n' +
+    '\t<!-- <-?php endif; // is_user_logged_in ?> -->\n' +
+    '\n' +
+    '\n' +
+    '<!-- column100 -->\n' +
+    '\n' +
+    '\n' +
+    '\n' +
+    '</div><!-- .entry-content -->\n' +
+    '</article></div>'
+}
+Requesting - https://news.ycombinator.com/item?id=21991268
+Title = Want to make good business decisions? Learn causality - https://news.ycombinator.com/item?id=21991268
+Requesting - https://multithreaded.stitchfix.com/blog/2019/12/19/good-marketing-decisions/
+Title = Want to make good business decisions? Learn causality | Stitch Fix Technology – Multithreaded - https://multithreaded.stitchfix.com/blog/2019/12/19/good-marketing-decisions/
+{
+  title: 'Want to make good business decisions? Learn causality | Stitch Fix Technology – Multithreaded - https://multithreaded.stitchfix.com/blog/2019/12/19/good-marketing-decisions/',
+  data: '<div id="readability-page-1" class="page"><div>\n' +
+    '      <article>\n' +
+    '        <section>\n' +
+    '          <figure>\n' +
+    '  <img alt="DAG for good decisions" src="https://multithreaded.stitchfix.com/assets/posts/2019-12-19-good-marketing-decisions/make-good-decisions-header.png">\n' +
+    '  <figcaption><i>Made with <a href="http://www.dagitty.net/">DAGitty</a></i></figcaption>\n' +
+    '</figure>\n' +
+    '\n' +
+    '<p>While the proliferation in the amount of data modern businesses collect has created many opportunities, it has also introduced challenges for sound decision-making. In some organizations, earnest efforts to be “data-driven” devolve into a culture of false certainty in which the influence of metrics is dictated not by their reliability but rather by their abundance and the confidence with which they’re wielded.</p>\n' +
+    '\n' +
+    '<p>For example, in the paid marketing domain, practitioners have unprecedented access to data about who clicked on what ads and converted when. Most companies use these data to drive decisions about millions (or even billions) of dollars: quantifying advertising channel or campaign performance, making changes to marketing campaigns, and constructing attribution metrics that assign credit to advertisements based on whether a new customer clicked on them before converting. The ability to slice and dice these data has given the impression of visibility into performance at any level of granularity.</p>\n' +
+    '\n' +
+    '<p>Unfortunately, it’s often only an impression. Looking at more data on more things doesn’t necessarily produce better decisions; in many cases, it actually leads to worse ones.</p>\n' +
+    '\n' +
+    '<h3 id="whats-a-decision-anyway">What’s a decision, anyway?</h3>\n' +
+    '\n' +
+    '<p>Decisions are about choosing between different sets of actions. The right decision is simply the one that, among the set of alternatives, would bring about, or cause, the best outcome.</p>\n' +
+    '\n' +
+    '\n' +
+    '\n' +
+    '<p>As implied by the formulation above, decision-making is trivial when the candidate outcomes are known in advance, here indicated as  plugged into utility function, . The real challenge (and opportunity) is in obtaining accurate estimates of what these outcomes might be. Enter, data!</p>\n' +
+    '\n' +
+    '<p>If there’s one thing data scientists are good at, it’s throwing a bunch of data into XGBoost and estimating . Decisions, however, rely on a very special kind of estimate—one that tells us about the outcome we’d observe if we intervened on the world by enacting decision , aka the <em>potential outcome</em>.</p>\n' +
+    '\n' +
+    '<p>Let’s pretend that you want to cut down on unnecessary medicine. You have a headache and are trying to decide whether or not to take ibuprofen. To guarantee the right decision, you’ll need to know the relevant potential outcomes: whether you’ll recover from the headache in less than an hour if you take ibuprofen, , and whether you will recover if you don’t take ibuprofen, . If , indicating that the headache will go away in less than an hour if ibuprofen is taken, and , that it won’t otherwise, then taking ibuprofen is the right decision; any other potential outcome configuration (e.g, ) would make not taking ibuprofen the best option.</p>\n' +
+    '\n' +
+    '<p>As a dogged empiricist, you’ve actually collected data on this. In fact, for the last two years, you’ve recorded every headache, indicated if you took ibuprofen and whether the headache subsided within an hour. Your dataset looks like this:</p>\n' +
+    '\n' +
+    '\n' +
+    '<div>\n' +
+    '  <table>\n' +
+    '    <thead>\n' +
+    '      <tr>\n' +
+    '        <th>Day</th>\n' +
+    '        <th>Took ibuprofen?</th>\n' +
+    '        <th>Recovered?</th>\n' +
+    '        <th>$$Y_{d=i}$$</th>\n' +
+    '        <th>$$Y_{d=\\neg i}$$</th>\n' +
+    '      </tr>\n' +
+    '    </thead>\n' +
+    '    <tbody>\n' +
+    '      <tr>\n' +
+    '        <td>1</td>\n' +
+    '        <td>1</td>\n' +
+    '        <td>1</td>\n' +
+    '        <td>1</td>\n' +
+    '        <td>Null</td>\n' +
+    '      </tr>\n' +
+    '      <tr>\n' +
+    '        <td>14</td>\n' +
+    '        <td>0</td>\n' +
+    '        <td>1</td>\n' +
+    '        <td>Null</td>\n' +
+    '        <td>1</td>\n' +
+    '      </tr>\n' +
+    '      <tr>\n' +
+    '        <td>...</td>\n' +
+    '        <td>...</td>\n' +
+    '        <td>...</td>\n' +
+    '        <td>...</td>\n' +
+    '        <td>...</td>\n' +
+    '      </tr>\n' +
+    '      <tr>\n' +
+    '        <td>719</td>\n' +
+    '        <td>1</td>\n' +
+    '        <td>0</td>\n' +
+    '        <td>0</td>\n' +
+    '        <td>Null</td>\n' +
+    '      </tr>\n' +
+    '    </tbody>\n' +
+    '  </table>\n' +
+    '</div>\n' +
+    '\n' +
+    '<p>Notice the abundance of missing values in the potential outcomes columns. Sadly, you can only observe one potential outcome at a time. For example, if you wanted to fill in the missing value for  on day 1, you’d literally need to travel back in time and not take ibuprofen to observe it. Absent a time machine, how might you use this null-value ridden data to estimate the future values  and  and decide whether or not to take ibuprofen now?</p>\n' +
+    '\n' +
+    '<p>With a time machine, you could fill in these null values and calculate , which would tell you how frequently ibuprofen caused or would have caused you to recover in the last two years. Further, such quantities might make for great potential outcome estimates of your current decision (e.g., ) <a name="back-r1"></a><a href="#r1">[1]</a>.</p>\n' +
+    '\n' +
+    '<p>One set of questions these data can answer is on average, what percent of the time you recovered from a headache with ibuprofen,  and without, . You could use these averages as potential outcome estimates of taking vs. not taking ibuprofen, but would they be any good? For example, it may be the case that you only take ibuprofen when your headache is very severe and conversely, forgo it when the headache seems to be dissipating on its own. A naive comparison might even suggest that ibuprofen has made recovery <em>less</em> likely.</p>\n' +
+    '\n' +
+    '<p>Fortunately, the field of causal inference tells us how to make such estimates along with what data and assumptions are required to do it well. That means that if we’re thoughtful (and lucky), we may not actually need a time machine to produce good estimates of  and put them to good use as estimates for the potential outcomes of the decision we’d like to inform. When we talk about potential outcomes under different decision rules, , we’re talking about the causal relationships between our decisions and outcomes. The better our understanding of those causal relationships, the better decisions we’re likely to make. If our goal is to improve our understanding of causal relationships, more data is not necessarily better. <strong>In this context, data is only valuable if it improves our causal understanding.</strong></p>\n' +
+    '\n' +
+    '<h3 id="causality">Causality</h3>\n' +
+    '\n' +
+    '<h4 id="should-i-pay-the-google-tax-this-question-is-harder-than-you-think">“Should I pay the Google Tax?” (This question is harder than you think)</h4>\n' +
+    '\n' +
+    '<p>In paid marketing, one major channel for many advertisers is Search Engine Marketing (SEM). Search ads are sponsored links associated with a user’s search term. Marketers use SEM to get their ads to appear at the top of search results for high-intent users. For example, if you’re hangry now, several companies will offer to solve your problem:</p>\n' +
+    '\n' +
+    '<figure>\n' +
+    '<center>\n' +
+    '  <img alt="Google Search: Food Delivery Now" src="https://multithreaded.stitchfix.com/assets/posts/2019-12-19-good-marketing-decisions/google-food-delivery-now.png" width="90%">\n' +
+    '</center>\n' +
+    '</figure>\n' +
+    '\n' +
+    '<p>One decision within this channel is whether or not to spend money advertising to people who are already explicitly searching for your brand.</p>\n' +
+    '\n' +
+    '<p>So-called branded keyword ads are the advertisements that appear in search results when you enter the name of a brand:</p>\n' +
+    '\n' +
+    '<figure>\n' +
+    '<center>\n' +
+    '  <img alt="Google Search: Stitch Fix Branded Keyword" src="https://multithreaded.stitchfix.com/assets/posts/2019-12-19-good-marketing-decisions/google-stitchfix.png" width="90%">\n' +
+    '</center>\n' +
+    '</figure>\n' +
+    '\n' +
+    '<p>For businesses, branded search ads are irritating. It seems cosmically unfair to pay for people so obviously interested in one’s own brand or trademark. But not advertising to people who search for your brand means the ads of competitors appear first in the search results. Dubbed the Google Tax, branded-keyword search campaigns can result in an arms race among competing companies. Some companies address this via trademark complaint or informal agreements with competitors. This can result in a <a href="https://www.bloomberg.com/news/articles/2019-05-09/expedia-under-investigation-by-utah-over-hotel-collusion-claims">legal headache</a>.</p>\n' +
+    '\n' +
+    '<p>Before we summon the lawyers, let’s take a step back. Why pay for clicks on your brand’s keywords? A common rationale is that it’s an inexpensive way to immediately acquire clients. But consider an alternative narrative: might internet users searching for your brand be devoted enough to click on the organic results <a name="back-r2"></a><a href="#r2">[2]</a> just inches below the sponsored ones? If so, paying for branded keywords does not cause any net conversions since people were going to convert even if the ad didn’t appear. (This narrative is not as outlandish as it might seem, e.g. <a href="http://faculty.haas.berkeley.edu/stadelis/tadelis.pdf">eBay</a>.) In this case, there may be other rationales for paying the Google Tax, but “inexpensive acquisition” wouldn’t be one of them.</p>\n' +
+    '\n' +
+    '<p>To be clear, paying the tax is fine as long as you know what you’re getting. Unfortunately, many companies don’t.</p>\n' +
+    '\n' +
+    '<p>Before we decide to buy these ads, we’d like to ensure that they will actually cause people to sign up for our service that wouldn’t otherwise. This requires an understanding of the following potential outcomes: the number of clients we would acquire by spending  on branded ads, which we’ll call , and number we’d get by spending , . As in the ibuprofen example above, we can use our historical data to inform our expectations about these potential outcomes by asking whether, on average, buying paid ads caused people to sign up that wouldn’t have otherwise. With this question in mind, we can define our target parameter as, , which we’ll assume for this example implies  if .</p>\n' +
+    '\n' +
+    '<p>Since we’ve bought such ads in the past, we might seek to inform these expected potential outcomes by looking at the number of customers who clicked on them before converting in the historical data. Alternatively, one could regress new customer counts on branded keyword ad spend. These strategies, however, would lead to poorly estimated expectations and likely very poor decisions.</p>\n' +
+    '\n' +
+    '<p>In this example, the causal relationship between ad spend and new customer acquisition is confounded by things like word of mouth, television ads, media coverage, etc. For example, when we run a television campaign, the number of people searching for “Stitch Fix” on Google to find our website increases. When a Stitch Fix ad appears at the top of their results, they often click it even if they would have visited our website anyway, causing our spend to increase on branded keywords without necessarily inducing additional people to visit our site that wouldn’t have otherwise. Independent of these searches, television campaigns can simultaneously cause an influx of new clients. This can result in a very strong association between branded keyword ad-spend and new client numbers—not because branded search ads are causing people to sign up—but because other sources of new customer demand (e.g., TV ads) may be a persistent, common cause of both.</p>\n' +
+    '\n' +
+    '<p>Even with infinite data, the quality of such decisions will be very poor if we’re unable to understand the causal effects historically associated with one course of action versus another. In the example above, the regression parameters could completely misrepresent the effectiveness of branded search ads and lead to a highly inefficient allocation of advertising resources.</p>\n' +
+    '\n' +
+    '<h4 id="what-is-my-data-telling-me">What is my data telling me?</h4>\n' +
+    '\n' +
+    '<p>We’ve all heard the platitude that correlation doesn’t imply causation, but sometimes it does! The process of understanding when it does is often referred to as causal identification. If a relationship between two variables is causally identified, it means we can directly estimate useful summaries (e.g., the expectations) of its potential outcomes from the data we have (despite the missing potential outcomes we could only observe with a time machine).</p>\n' +
+    '\n' +
+    '<p>One of our favorite tools in this arena is causal Directed Acyclic Graphs (DAGs). DAGs are a powerful and intuitive tool for encoding causal assumptions about the data generating process of interest—in particular, whether the relationship we want to learn about is confounded by other phenomena. Nodes represent variables in our system while arrows indicate a directional causal connection. <strong>The biggest assumptions you make in a DAG are the nodes and arrows you leave out.</strong> Combined with a set of rules called the <a href="http://bayes.cs.ucla.edu/BOOK-2K/ch3-3.pdf">backdoor criterion</a> and assumptions about <a href="https://en.wikipedia.org/wiki/Causal_consistency">consistency</a> and <a href="https://en.wikipedia.org/wiki/Causal_consistency">positivity</a>, which we won’t describe here, the DAG can help reveal whether and how causality can be established with the data at hand <a name="back-r3"></a><a href="#r3">[3]</a>.</p>\n' +
+    '\n' +
+    '<p>In the DAG pictured below, we are interested in the number of new customers we would acquire by adjusting the amount we spend on branded keyword ads. Unfortunately, there is another causal path with arrows pointing to both spend and new customer acquisition; this is known as a backdoor path and means that, unless we can block it, correlation does not imply causation and summaries of potential outcomes cannot be estimated directly from the data.</p>\n' +
+    '\n' +
+    '<figure>\n' +
+    '<center>\n' +
+    '  <img alt="New Customer DAG" src="https://multithreaded.stitchfix.com/assets/posts/2019-12-19-good-marketing-decisions/client-dag.png" width="90%">\n' +
+    '</center>\n' +
+    '<figcaption>\n' +
+    'One of our favorite DAG related tools is <a href="http://www.dagitty.net/">DAGitty</a>. We used it to generate the DAGs in this blogpost. It’s a fantastic resource for automagically identifying minimal adjustment sets! We heartily recommend you check it out.\n' +
+    '</figcaption>\n' +
+    '</figure>\n' +
+    '\n' +
+    '<p>Though sometimes we may get lucky and be able to identify causal effects in observational data, randomized experiments are the tried and true way of identifying and estimating such effects. In the paid search example, if we randomize ad spend <a name="back-r4"></a><a href="#r4">[4]</a>, it will become independent of any other cause, in contrast to the observational setting, where other sources of demand are a common cause (aka a confounder) of both spend and customer acquisition. In the context of our DAG, randomization blocks any backdoor paths between ad spend and new customers by deleting any arrows pointing to ad spend.</p>\n' +
+    '\n' +
+    '<h4 id="cant-i-just-use-xgboost">Can’t I just use XGBoost?</h4>\n' +
+    '<p>(Actually, yes! But hold on a minute, we’ll get there.)</p>\n' +
+    '\n' +
+    '<p>The most common way of blocking a backdoor path is adjustment. As it turns out, our branded paid search DAG presents just such an opportunity! Assuming our DAG is correct <a name="back-r5"></a><a href="#r5">[5]</a> (and that positivity / consistency assumptions are also satisfied), adjusting for Stitch Fix searches will make the residual correlation between spend and new customer acquisition a causal one.</p>\n' +
+    '\n' +
+    '<p>To adjust for Stitch Fix searches, we could estimate our expected potential outcomes with a simple weighted average:</p>\n' +
+    '\n' +
+    '\n' +
+    '\n' +
+    '<p>However, in most settings, such an approach would suffer from data sparsity issues with respect to the variable we’re adjusting for—in this case, the number of searches for Stitch Fix.</p>\n' +
+    '\n' +
+    '<p>Alternatively, we could specify :</p>\n' +
+    '\n' +
+    '\n' +
+    '\n' +
+    '<p>Where  would be our estimate of the target parameter. Since searches is a continuous variable, a linear relationship may be a very poor approximation—effectively the opposite problem from the weighted average estimator. In addition, even if the relationship is truly linear, OLS will yield inconsistent and biased estimates in the presence of treatment effect heterogeneity (which should always be the default assumption), even with infinite data!</p>\n' +
+    '\n' +
+    '<p>For such problems at Stitch Fix, we turn to a semiparametric method from modern effect estimation called targeted maximum likelihood estimation (<a href="https://tlverse.org/acic2019-workshop/">TMLE</a> <a name="back-r6"></a><a href="#r6">[6]</a>). TMLE throws the kitchen sink at estimating  and  using an ensembling technique called Superlearner, which constructs a linear combination of any set of predictive / machine learning models (XGBoost is available in CV-TMLE, check out the link above) and weights them using cross validation, generally performing better in practice than any single model would. TMLE is also targeted, which means that instead of optimizing the performance of the whole prediction function, it focuses all its energy on estimating the target parameter of interest, , as well as possible. In addition, it’s double robust, which means that if either prediction function is correctly specified, TMLE’s estimate will converge to the right answer.</p>\n' +
+    '\n' +
+    '<h3 id="conclusion">Conclusion</h3>\n' +
+    '\n' +
+    '<p>In summary, data can only improve decisions insofar as it enables us to learn about the potential outcomes associated with the alternatives under consideration. Instead of being naively data driven, we should seek to be causal information driven. Causal inference provides a set of powerful tools for understanding the extent to which causal relationships can be learned from the data we have. Standard machinery will often produce poor causal effect estimates, which modern methods from effect estimation, such as TMLE, will consistently outperform. By taking these considerations seriously at Stitch Fix, we foster a culture of better, clearer decision-making.</p>\n' +
+    '\n' +
+    '<h3 id="references">References</h3>\n' +
+    '\n' +
+    '<p><a name="r1"></a>\n' +
+    '<a href="#back-r1">[1]↩</a> In this blog we limit our focus to cases where the past, present and future can all be assumed to have a common data generating distribution. There are situations where this may not be true. Interested readers may wish to consult literature on causal transportability to learn more.</p>\n' +
+    '\n' +
+    '<p><a name="r2"></a>\n' +
+    '<a href="#back-r2">[2]↩</a> The set of results returned by a given search that are not paid for by any advertiser.</p>\n' +
+    '\n' +
+    '<p><a name="r3"></a>\n' +
+    '<a href="#back-r3">[3]↩</a> Some of you may find our mixing of Rubin’s potential outcomes framework with Pearl’s nonparametric structural equation modeling framework a bit surprising, if not downright sacrilegious! At Stitch Fix, data scientists are incurable pragmatists: we find the potential outcomes framework to be a nice, intuitive way to introduce people to the concept of causality in statistics; AND we find DAGs to be an indispensable tool for expert elicitation during the causal identification process.</p>\n' +
+    '\n' +
+    '<p><a name="r4"></a>\n' +
+    '<a href="#back-r4">[4]↩</a> Note that in reality, ad spend can only be randomized through randomizing keyword bids.</p>\n' +
+    '\n' +
+    '<p><a name="r5"></a>\n' +
+    '<a href="#back-r5">[5]↩</a> This DAG is oversimplified for the sake of pedagogy. For a more detailed discussion of causal effect identification and estimation in paid search see this <a href="https://storage.googleapis.com/pub-tools-public-publication-data/pdf/1c828fc2e570ad4dccb1ef7f0414b387d4cb39e4.pdf">article by Google Research</a>.</p>\n' +
+    '\n' +
+    '<p><a name="r6"></a>\n' +
+    '<a href="#back-r6">[6]↩</a> <a href="https://www.jstatsoft.org/article/view/v051i13">Here’s a nice introductory article on TMLE</a>. There are implementations in both R and Python.</p>\n' +
+    '\n' +
+    '        </section>\n' +
+    '      </article>\n' +
+    '    </div></div>'
+}
+{
+  title: 'Want to make good business decisions? Learn causality - https://news.ycombinator.com/item?id=21991268',
+  data: `<div id="readability-page-1" class="page"><p><span>&gt; That's unfair. Most of the article is basic.<p>&gt; Even then, DAG seems like a very straightforward concept that would be useful to have in your toolkit, but is probably something most thoughtful people do without explicitly thinking about it when doing regressions.</p><p>I appreciate the honest response. To elaborate a bit, I think you may be mixing up the point of the article with the fact it starts with a low baseline of expected familiarity / knowledge to be able to bring more readers along.</p><p>My read is that the purpose of the article is to explain how to perform more accurate blocking and be explicit about you model assumptions by using DAGs. Followed by why the common tool everyone reaches for of linear regression is the wrong tool in this case, and TMLE is better.</p><p>That's the meat of what the article builds to, and is 9 out of the 30 paragraphs. Roughly 1/3rd (not 1/2 as guessed).</p><p>&gt; Why couldn't they spend the article describing this, as it seems that this what their value add as a service is.</p><p>Agreed, but I think this is a different type of article. It's (in my opinion) and article saying "hey, there is a problem or shortcoming in what you're doing today. Gives justification as to why many people do have this problem, and then says "These are the tools to help you fix it."</p><p>A person unaware knows what to look into to solve their problem. Presumably a treatment on the solutions doesn't fit in a blog post - and it doesn't have to. There is value in identifying a person's problem and telling them how to learn about the solution. Even without fully detailing the solution. And I think this is your main criticism with the post, is that it wasn't a post to just present the solution in full detail.</p><p>That said, I don't want this to seem like im beating you up - but rather show that there are many different ways to get value and information on a topic without a detailed treatment of a solution.</p><p>And cycling back to your original point, I agree, I think the reason they don't go into full detail on the solution is because at that point the amount there'd need to cover to do a full treatment on the solution ends up having the cost outweigh the value in a blog post that is motivated to bringing people to their company/service.\n` +
+    '              </p></span></p></div>'
+}
+Requesting - https://news.ycombinator.com/item?id=19176331
+Title = Ask HN: Tools for rational decision making? - https://news.ycombinator.com/item?id=19176331
+{
+  title: 'Ask HN: Tools for rational decision making? - https://news.ycombinator.com/item?id=19176331',
+  data: '<div id="readability-page-1" class="page"><div><td><table>\n' +
+    '        <tbody><tr id="19176331">\n' +
+    '      <td><span></span></td>      <td><center><a id="up_19176331" href="https://news.ycombinator.com/vote?id=19176331&amp;how=up&amp;goto=item%3Fid%3D19176331"></a></center></td><td><a href="https://news.ycombinator.com/item?id=19176331">Ask HN: Tools for rational decision making?</a></td></tr><tr><td colspan="2"></td><td>\n' +
+    '        <span id="score_19176331">87 points</span> by <a href="https://news.ycombinator.com/user?id=miguelrochefort">miguelrochefort</a> <span><a href="https://news.ycombinator.com/item?id=19176331">11 months ago</a></span> <span id="unv_19176331"></span> | <a href="https://news.ycombinator.com/hide?id=19176331&amp;goto=item%3Fid%3D19176331">hide</a> | <a href="https://hn.algolia.com/?query=Ask%20HN%3A%20Tools%20for%20rational%20decision%20making%3F&amp;sort=byDate&amp;dateRange=all&amp;type=story&amp;storyText=false&amp;prefix&amp;page=0">past</a> | <a href="https://www.google.com/search?q=Ask%20HN%3A%20Tools%20for%20rational%20decision%20making%3F">web</a> | <a href="https://news.ycombinator.com/fave?id=19176331&amp;auth=3b6242b78930b77b1da84f6ef43069d89403f043">favorite</a> | <a href="https://news.ycombinator.com/item?id=19176331">27&nbsp;comments</a>              </td></tr>\n' +
+    `      <tr></tr><tr><td colspan="2"></td><td>Someone stole my phone 2 weeks ago.<p>I could have walked across the street and purchased any of the 50+ models the store had on display, in under an hour. But I had specific requirements (USB-C, NFC) and didn't want to spend over $200.</p><p>I spent over 10 hours searching for a replacement online. I found a good candidate, and a store in my city appeared to have it in stock. So I spent 15 minutes trying to memorize how to get there, walked for over an hour to get there (didn't want to pay $2 for a ride), waited 30 minutes until an employee became available, asked if they had the phone in stock, and learned they they didn't. I then walked back home, got lost, and eventually arrived 2 hours later. I then started my search over, slightly tweaking my criteria.</p><p>After 2 weeks without a phone, over 20 hours of research, and visiting 5 different stores, I finally bought a replacement. It's second hand, not exactly state of the art, and I just just found out the vibration motor is broken. But it's too late to return it, as I already left the country. I probably would still be searching for a phone if I didn't have a flight yesterday as a hard deadline.</p><p>I'm now looking to buy a case for it. I must have spent 4 hours on this already. Today, I'll visit a few different stores to see if they have it. I found a few online, but shipping makes it expensive and inconvenient.</p><p>I do this all the time. Every decision, big or small, is treated as if it's a matter of life or death. I can't seem to make a decision without a non-arbitrary external deadline. I'm doing 99% exploration and 1% exploitation. I value my time at 0.</p><p>How do you make rational decisions?  What if they're complex? When do you stop? Do you use any tools?</p></td></tr>\n` +
+    '    </tbody></table>\n' +
+    '      </td></div></div>'
+}
+Requesting - https://news.ycombinator.com/item?id=16504401
+Title = Probabilistic thinking can lead to improved decision-making - https://news.ycombinator.com/item?id=16504401
+Requesting - https://www.quantamagazine.org/the-bayesian-probability-puzzle-solution-20180302/
+Title = The Bayesian Probability Puzzle Solution | Quanta Magazine - https://www.quantamagazine.org/the-bayesian-probability-puzzle-solution-20180302/
+{
+  title: 'The Bayesian Probability Puzzle Solution | Quanta Magazine - https://www.quantamagazine.org/the-bayesian-probability-puzzle-solution-20180302/',
+  data: `<div id="readability-page-1" class="page"><div data-reactid="197"><section data-reactid="198"><section data-reactid="199"><div data-reactid="200"><div data-reactid="202"><div data-reactid="203"><h6 data-reactid="204"><a href="https://www.quantamagazine.org/tag/insights-puzzle/" data-reactid="205">insights puzzle</a></h6><!-- react-empty: 207 --><div data-reactid="215"><p>When our brains don't have a good intuition for reasoning with numbers, explicit probabilistic thinking can lead to improved decision-making. </p></div></div></div></div></section></section></div><div data-reactid="234"><div data-reactid="235"><div data-reactid="236"><div data-reactid="237"><section data-reactid="279"><div data-reactid="280"><div data-reactid="281"><div data-reactid="282"><p>When making hard decisions, do you go with your gut or try to calculate the risks? In many cases going with your gut is fine, but the answers to our <a href="https://www.quantamagazine.org/the-bayesian-probability-puzzle-20180208/">February puzzle</a> problems show how explicit probabilistic thinking can outperform intuitive estimates. They also highlight the differences between situations where an intuitive approach succeeds and ones where it fails.</p>\n` +
+    '<p>Our first problem was an excerpt from a whimsical children’s story.</p>\n' +
+    '<p><strong>Problem 1</strong></p>\n' +
+    '<p>A man went on an airplane ride.</p>\n' +
+    '<p>Unfortunately, he fell out.</p>\n' +
+    '<p>Fortunately, he had a parachute on.</p>\n' +
+    '<p>Unfortunately, the parachute did not open.</p>\n' +
+    '<p>Fortunately, there was a haystack below him, directly in the path of his fall.</p>\n' +
+    '<p>Unfortunately, there was a pitchfork sticking out of the top of the haystack, directly in the path of his fall.</p>\n' +
+    '<p>Fortunately, he missed the pitchfork.</p>\n' +
+    '<p>Unfortunately, he missed the haystack.</p>\n' +
+    '<p>There have indeed been alleged instances of people surviving falls from planes by landing on haystacks, or even by falling into trees or thick shrubbery, as a quick online search will reveal. So the alternating screams inside this imaginary man’s head — “I’m dead!”/“I’m saved!” — are not conclusive until the sad finale. (Though our story seems to end tragically, in the original the protagonist survives with many more abrupt reversals of fortune!) Can principled methods of risk estimation be applied here? Given the available information, estimate his odds of survival at the end of each line above.</p>\n' +
+    '\n' +
+    '<p><a href="https://www.quantamagazine.org/the-bayesian-probability-puzzle-20180208/#comment-3755202666">Douglas Felix</a> made a very good attempt at answering this question. As his answers indicate, the probability of survival at each step is either very close to zero or very close to one, so it is very hard to express the absolute and relative risks in a way that’s easy to understand. The Stanford scientist <a href="https://profiles.stanford.edu/ronald-howard">Ronald Howard</a>, pioneer of risk analysis, invented a measure for just this purpose — the <a href="https://theconversation.com/whats-most-likely-to-kill-you-measuring-how-deadly-our-daily-activities-are-72505">micromort</a>. The micromort is a one-in-a-million chance of death. You can use the usual metric prefixes to express risks even closer to zero, such as nanomorts and picomorts. For the purposes of our puzzle, we can name a flipped unit, the microvivé, for situations in which the chances of survival are very close to zero — a risk of one microvivé&nbsp;would mean a one in a million chance of surviving. The sum of the number of micromorts and microvivés is always one million. Armed with these measures, let’s take a look at the risks in the story above, assuming it happened around the present time in history. For reference, the average risk of death by an unnatural cause for a middle-aged person per day is about 1 micromort.</p>\n' +
+    '<p><em>A man went on an airplane ride. </em></p>\n' +
+    '<p>In the absence of any more information, it is overwhelmingly likely that a random plane ride is on a commercial air carrier. The rate of fatal accidents worldwide for this today is about 0.2 to 0.4 per million flights, giving a risk of death of 0.2 to 0.4 micromorts, not adding very much to one’s normal everyday risk. &nbsp;However, if we knew that the man had a parachute strapped on, as is revealed in the third line, we would have to conclude that this was probably no ordinary ride. Perhaps it was a skydiving trip or military aircraft mission. In that case, we would need to use the figures reported for general aviation fatalities, not the much-better figures for commercial air carriers. One <a href="https://www.livescience.com/49701-private-planes-safety.html">published</a> estimate based on official data puts this risk at something on the order of 1 in 100,000, which is 10 micromorts.</p>\n' +
+    '<p><em>Unfortunately, he fell out.</em></p>\n' +
+    '<p>The chances of survival after a fall from an airplane are hard to estimate, but probably not as high as we think. When we hear this sentence, we assume he didn’t have a parachute, but that is not explicitly denied yet. Even if he didn’t have a parachute, there are documented cases of a handful of people who survived a fall from an airplane. The number of people who have fallen out of airplanes without parachutes throughout history is probably not more than 100,000 to 300,000, based on published air fatality numbers. Based on these two facts, the chances of survival without a parachute may range from 1 in 10,000 to 1 in 30,000, which is 30 to 100 microvivés (a chance of dying of 999,900 to 999,970 micromorts).</p>\n' +
+    '<p><em>Fortunately, he had a parachute on.</em></p>\n' +
+    '<p>The official figures for skydiving accidents put the risk of dying in a skydiving accident at about 8 to 9 micromorts. The chance of dying has dropped considerably.</p>\n' +
+    '<p><em>Unfortunately, the parachute did not open.</em></p>\n' +
+    '<p>The chances of survival plummet to 30 to 100 microvivés,&nbsp;as above.</p>\n' +
+    '<p><em>Fortunately, there was a haystack below him …</em></p>\n' +
+    '<p>Considering that people have survived falls into shrubbery, a haystack could possibly improve the chances of survival, perhaps allowing an escape with some broken bones. It is hard to estimate, but the odds are perhaps somewhere between one in a hundred to one in a thousand of surviving — &nbsp;1,000 to 10,000 microvivés, many times better than before.</p>\n' +
+    '<p><em>Unfortunately, there was a pitchfork sticking out …&nbsp;</em></p>\n' +
+    '<p>Ouch! But with a surrounding haystack, the odds would still be better than if the pitchfork and haystack were absent. I’d put the odds somewhere between 50 and 500 microvivés.</p>\n' +
+    '<p><em>Fortunately, he missed the pitchfork.</em></p>\n' +
+    '<p>Back to 1,000 to 10,000 microvivés.</p>\n' +
+    '<p><em>Unfortunately, he missed the haystack.</em></p>\n' +
+    '<p>As after line two, back to 30 to 100 microvivés, or a 99.990 to 99.997 percent chance of dying.</p>\n' +
+    '<p>As is obvious, we need hard data to give tight probabilities. Nevertheless, we can give reasonable, albeit broad estimates. The units, once you get used to them, make things clearer and give more information rather than simply saying, “very, very close to zero/one.”</p>\n' +
+    '<p>(It is tempting to invent similar units to add clarity in other situations: For instance, a one-in-a-million chance of an utterance being true could be called a microvérité&nbsp;or a microvér for short — a handy unit in this era of “fake news.”)</p>\n' +
+    '<p><strong>Problem 2</strong></p>\n' +
+    '<p>The number of deaths on commercial airlines is about 0.2 deaths per 10 billion flight-miles. For driving, the rate is 150 deaths per 10 billion vehicle-miles. While this rate is about 750 times higher than for air travel, we still take long road trips because the absolute risks are small. But let us pursue a thought experiment using two hypothetical and admittedly unrealistic assumptions — first, that your expected life span is 1 million years (and you enjoy every year of it!), and second, that the above risks remain the same during those million years. Now imagine that every year you could either fly 10,000 miles or cover that distance by car over multiple road trips. The time spent is not a concern at all — after all, you have a million years to live! Under these conditions, by how many years and by what proportion would your life be shortened if you lived a million years and drove every time instead of flying? How would your answer differ for a more normal life span of 100 years?</p>\n' +
+    '<p><a href="https://www.quantamagazine.org/the-bayesian-probability-puzzle-20180208/#comment-3757427858">Alexandre</a> answered this problem correctly. To figure out how much your life would be shortened on average by flying, consider that, in this problem, a flying death occurs every 50 billion flight-miles on average. In a life span of 1 million years, flying 10,000 miles a year, you cover only a fifth of this distance, a total of just 10 billion miles. So you have an 80 percent chance of living a full million years. This means that out of a group of five randomly selected people, four would be expected to live one million years, while the fifth would be expected to have a fatal accident sometime in his or her life, for an average life span of half a million years. So the average life expectancy for the entire group would be 4.5 million/5 or 900,000 years, or 90 percent of normal, as Alexandre correctly calculated. On the other hand, for driving, a death occurs on average every 66.67 million miles (10 billion/150), a distance you’d expect to have driven by the time you were 6,667 years old. So the average 1-million-year lifetime would be reduced to 6,667 years, or about 0.67 percent of its expected length. Using the same method of calculation for a 100-year life span, we obtain the following results: For flying, the average life span will be shortened by 0.001 years or about eight hours, whereas for driving it will be shortened by 0.075 years or about a month.</p>\n' +
+    '<p>What this demonstrates is that people who lived a million years would tend to be very risk-averse! But more seriously, it shows that choosing just slightly riskier options repeatedly can increase risk significantly over time.</p>\n' +
+    '<p><strong>Problem 3</strong></p>\n' +
+    '<p>Here are two similar scenarios in which you have to make probability judgments. Before you make an exact calculation, hazard an intuitive guess and jot it down.</p>\n' +
+    '<p>Variation A: A certain town has two ethnic groups, the Ones and the Twos. Ones make up 80 percent of the population. A hospital clinic conducts a standard, unbiased screening test for a rare disease that is equally common in both groups. It results in the collection of 100 blood samples, and sure enough, 80 of the samples come from Ones. On more rigorous testing, just one of the 100 samples is found to be positive for the disease. A researcher who is not privy to the ethnicity data because of&nbsp;<a href="https://www.hhs.gov/hipaa/for-professionals/privacy/laws-regulations/index.html">HIPAA laws</a>&nbsp;runs a test on this sample, which determines that it comes from a Two. However, this ethnicity-determining test is known to be only 75 percent accurate. What is the probability that the sample actually came from a Two?</p>\n' +
+    '<p>Variation B: In this variation, Ones and Twos both make up 50 percent of the population, but Ones are more likely to have the rare disease. The same screening procedure as above collects 100 blood samples, again yielding 80 from Ones and 20 from Twos. The rest of the problem is exactly the same. Now what is the probability that the diseased sample actually came from a Two?</p>\n' +
+    '<p>In which of the two cases was your intuition more accurate?</p>\n' +
+    '<p>The right answer for the probability, in the case of both variations, is 3/7 or 42.9 percent, which was obtained by <a href="https://www.quantamagazine.org/the-bayesian-probability-puzzle-20180208/#comment-3752084877">Douglas Felix</a> and <a href="https://www.quantamagazine.org/the-bayesian-probability-puzzle-20180208/#comment-3750523081">Alexandre</a>. This is a standard question in probability theory, and can be solved by the standard Bayesian conditional probability formula <a href="http://www.statisticshowto.com/bayes-theorem-problems/">P(A|B) = P(B|A) × P(A) / P(B)</a>, or for those who like visual thinking, by using the elegant geometric approach illustrated by <a href="https://www.quantamagazine.org/the-bayesian-probability-puzzle-20180208/#comment-3757396179">Alexandre</a>. Below I give a simple arithmetic approach that can always be applied to such problems and offers an understanding of how the answer follows logically.</p>\n' +
+    '<p>Let’s start with the 100 samples in variation A. Of these, 80 belong to Ones. The ethnicity test is accurate three-quarters of the time, so it will label only 60 of these samples as belonging to Ones, and mislabel the other 20 as belonging to Twos. Similarly, out of the 20 samples from Twos, the ethnicity test will label 15 correctly as belonging to Twos, and mislabel 5 as belonging to Ones. Thus, the ethnicity test will label a total of 20 + 15 = 35 samples as Twos, out of which only 15 are truly Twos. Since the screening test is unbiased, any one of these is equally likely to have the rare disease. So the chance that the sample actually came from a Two is 15/35 or 42.9 percent. What this means is that even though the ethnicity test is reasonably accurate, and has identified the disease sample as that of a Two, that sample is still more likely to have come from a One! When asked to guess in situations like these, most people estimate the chance that the disease sample came from a Two to be around 75 percent.</p>\n' +
+    '<p>Note that when we say that the screening test is unbiased, we mean that all individuals whose screening test is positive have an equal chance of having the disease, regardless of their ethnicity. A couple of readers wrote that the test could not be unbiased in variation B, because 80 percent of the samples were from Ones, even though there are equal numbers of Ones and Twos in the population. Here’s how this could happen. Let’s say that high blood pressure predisposes a person to the disease, and the screening test catches everyone with a blood pressure above a certain threshold. Now, in Variation B, Ones may be genetically predisposed to get high blood pressure. So the screening test collects more samples from Ones. And therefore, as mentioned, Ones are more likely to get the disease. Once the screening test is done, however, its ethnically unbiased nature ensures that all samples collected are equally likely to have the rare disease. Thus variation B also gives the same answer: 42.9 percent. In this case, however, our intuitions kick in correctly, and our estimated probability comes out closer to the correct answer.</p>\n' +
+    '\n' +
+    '<p>Why should this be? Such errors in our intuitive reasoning about probabilities and the reasons behind them have been fascinatingly classified and described by the Nobel Prize-winning psychologist Daniel Kahneman in his best-selling book <a href="https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;uact=8&amp;ved=0ahUKEwiL15SBusTZAhVndt8KHZdKAIgQFggmMAA&amp;url=http%3A%2F%2Fwww.nytimes.com%2F2011%2F11%2F27%2Fbooks%2Freview%2Fthinking-fast-and-slow-by-daniel-kahneman-book-review.html&amp;usg=AOvVaw1WBkARgEe57y99O50gw_92"><em>Thinking, Fast and Slow</em></a>. As Kahneman notes, the kind of false Bayesian reasoning demonstrated in our problem was elucidated by the psychologist Icek Ajzen. Kahnemann describes this false reasoning as “causes trump statistics.” Our brains reason better with causes, rather than with numbers. In variation B, the idea that Ones are more prone to the disease is a cause we can latch on to, and it helps us discount the results of the ethnicity test as we should; in variation A, however, we don’t have such a causal story to tell ourselves — we just have numbers, which are not as compelling. Hence we give greater importance to the results of the ethnicity test, and discount the numbers, even though we should not. Mathematically, both variations are exactly the same.</p>\n' +
+    '<p>Thank you to all those who commented. The <em>Quanta</em> T-shirt goes to Alexandre. Congratulations!</p>\n' +
+    '<p>Insights will take a break in March and continue on a bimonthly basis. See you all in April.</p>\n' +
+    '<p><em>Updated on March 2, 2018: This article was updated to clarify that the average risk of death “by an unnatural cause” for a middle-aged person per day is about 1 micromort.</em> </p>\n' +
+    '</div></div></div></section></div></div></div></div></div>'
+}
+{
+  title: 'Probabilistic thinking can lead to improved decision-making - https://news.ycombinator.com/item?id=16504401',
+  data: `<div id="readability-page-1" class="page"><div><p><span>There are much more useful real-world examples of applied probabilistic thinking in search and rescue.<p>In conditions where you don't have direct contact with the search subject (and, sometimes, even if you do), there are a ton of factors to account for when deciding where to deploy resources and which resources to deploy.</p><p><i>Most</i> search managers rely on gut feelings and experience, and in many cases, that works okay. They're familiar with the "hot spots" in their area where subjects tend to get turned around or hurt (or turn up if they've got a mental disability).</p><p>But there are many many searches where those tools totally fail them, and in those cases, I've seen searches stumble pretty badly and a ton of resources just get totally wasted as the manager re-deploys resources to the same places over and over again, totally certain each time that the subject is there and just somehow got missed by previous teams.</p><p>My favorite search-related text so far is "Lost Person Behavior", an analysis of the behaviors of past search subjects. It's far from perfect -- in some cases, it's relying on very small amounts of data or on data that's relevant to a specific area only -- but it's all we've got at the moment, it's a step in the right direction, and it's been right for the most part, even when the search manager was wrong.</p><p>I've also developed a personal rule that "40% of the information we've got is wrong" going into a search. Bad information is the result of a lot of hands touching the info before we ever get it. Everyone tries to be helpful, and they suggest things that then become facts. These bits of misinformation can misdirect searches really badly, so it's good practice to review all of the information you've got right away, and try to identify the bits that are most likely to be incorrect.</p><p>In the first quarter of 2017, we had a plane go down in a neighboring county that didn't have the resources to manage the search, so we handled it. It turned into a major search spanning almost a week, with CalOES on-site, along with air national guard, civil air patrol, and a half-dozen other agencies, and hundreds of feet on the ground. Along about day 3, I decided to re-review the data; there was a flight track from radar just before the aircraft disappeared, there was an eyewitness account that heard a loud aircraft engine but couldn't see it because of heavy cloud cover, and there was an intermittent ELT signal. We had some information on the conditions at the time. The area around the ELT had been searched, and re-searched, and was about to be searched again. Given that info, what would you do as a search manager?</p><p>The eyewitness account was from about the right time of day, and the guy didn't seem over-helpful, so it was probably reliable but all it told us was that there might have been an aircraft in the area at the time.</p><p>I decided to dismiss the ELT entirely, and instead reviewed the terrain, compared it to the flight track, and talked to a pilot. We assumed the pilot was capable and that they had a technical issue with the aircraft; given that, the flight track suggested they attempted to turn back, and then changed their mind. There was a narrow mountain pass just ahead of the end of the flight track, and then a long valley that suddenly ended in mountains. And that's approximately where the plane was eventually found, many miles from the ELT reports.</p><p>I reasoned that once the ELT area had been searched, the probability of the aircraft being there dropped considerably, and therefore the ELT was misleading the search. So, where would we search if there was no ELT?</p><p>This has been a recurring pattern in a lot of searches over the last couple of years, and I hope someday a sea change happens in search management that incorporates more of this approach.\n` +
+    '              </p></span></p></div></div>'
+}
+Requesting - https://hbr.org/2015/03/a-checklist-for-planning-your-next-big-meeting
+Title = A Checklist for Planning Your Next Big Meeting - https://hbr.org/2015/03/a-checklist-for-planning-your-next-big-meeting
+{
+  title: 'A Checklist for Planning Your Next Big Meeting - https://hbr.org/2015/03/a-checklist-for-planning-your-next-big-meeting',
+  data: '<div id="readability-page-1" class="page"><div>\n' +
+    '\t\t\t\t\t\t<p><img src="https://hbr.org/resources/images/article_assets/2015/03/MAR15_26_checklist.png" alt="MAR15_26_checklist" width="1200" height="675">\n' +
+    '</p>\n' +
+    '<p>In theory, everyone understands that preparation can make or break an important meeting. The more work you do before you walk into the room, the more productive and efficient you’ll be. But who has the time to properly prepare? Our checklist makes meeting prep quick and easy—be sure to print it out or save it for later. Each step is described in more detail below. Using the checklist and the principles behind it will ensure that you’ve covered all your bases—and that you won’t be wasting anyone’s time (including your own).</p>\n' +
+    '<p><img src="https://hbr.org/resources/images/article_assets/2015/03/W150319_HBRSTAFF_MEETINGPREPARATION-754x1024.png" alt="W150319_HBRSTAFF_MEETINGPREPARATION"></p>\n' +
+    '\n' +
+    '\n' +
+    '\n' +
+    '<p><strong>Identify the purpose of the meeting</strong></p>\n' +
+    '<p>Do you need to make a decision, solve a problem, rally the troops, or inform your team about a new initiative? Clarifying the purpose of your meeting is the first and most important planning step—this will drive all of the other elements of your prep.</p>\n' +
+    '<p><strong>Make sure you <em>really</em> need a meeting</strong></p>\n' +
+    '<p><a href="https://hbr.org/2015/03/do-you-really-need-to-hold-that-meeting">Don’t pile on <em>another</em> meeting</a> without thinking about other ways to accomplish your goal first. It’s better not to meet if:</p>\n' +
+    '<ul> \n' +
+    ' <li>you don’t have time to prepare</li> \n' +
+    ' <li>another method of communication would work just as well</li> \n' +
+    ' <li>you’re dealing with a sensitive topic or a personnel issue that would be better handled one-on-one</li> \n' +
+    ' <li>you need to solicit a number of individuals’ opinions</li> \n' +
+    '</ul>\n' +
+    '<p><strong>Develop a preliminary agenda</strong></p>\n' +
+    '<p>Lay out a sequence for the meeting. Plan time for a brief introduction to provide context, and for a discussion of next steps at the end. Decide how much time to devote to each item and what order makes sense. The longer your meeting, the harder it will be for people to remain focused, so it’s wise to underestimate how much your group can cover in the allotted time.</p>\n' +
+    '\n' +
+    '<article-promo>\n' +
+    ' <h4>Further Reading</h4> \n' +
+    ' <div> \n' +
+    '  <ul> \n' +
+    '   <li>\n' +
+    '    <div> \n' +
+    '     <figure> \n' +
+    '      <img src="https://hbr.org/resources/images/article_assets/2015/03/17003E_500.png"> \n' +
+    '     </figure> \n' +
+    '      \n' +
+    '    </div></li> \n' +
+    '  </ul> \n' +
+    ' </div>\n' +
+    '</article-promo>\n' +
+    '<p><strong>Select the right participants </strong></p>\n' +
+    '<p>Consider who can help you accomplish your goal and who will be affected by the meeting’s outcome. Identify key decision makers, people who are knowledgeable about (or have a stake in) the topic at hand, those who need to be informed in order to do their jobs, and anyone who will be required to implement decisions made. What about size? Keep problem solving meetings small (around 8 people). Include more people for brainstorming (as many as 18). If you’re providing updates or rallying the troops, be as inclusive as you want to be. But remember: time is money. Be conscious of the <a href="https://hbr.org/2014/04/how-a-weekly-meeting-took-up-300000-hours-a-year">ripple effects</a> your meeting can have on people’s time across the organization—and only invite those who absolutely have to be there.</p>\n' +
+    '<p><strong>Assign roles to participants</strong></p>\n' +
+    '<p>Giving participants a specific role to play can increase focus and engagement. Consider the following roles:</p>\n' +
+    '<ul> \n' +
+    ' <li>A <strong>facilitator </strong>guides the discussion, making sure all sides of the issue are raised (this is a good job for someone who is developing leadership skills and practicing neutrality).</li> \n' +
+    ' <li>A <strong>scribe</strong> captures key ideas and decisions and distributes notes (this gives shy people a way to participate.)</li> \n' +
+    ' <li>A <strong>timekeeper</strong> helps move the discussion along efficiently.</li> \n' +
+    ' <li>A <strong>contributor</strong> keeps the discussion lively and on track.</li> \n' +
+    ' <li>An <strong>expert</strong> shares knowledge on particular issues. One advantage: You can ask an expert to attend just part of the meeting, keeping their contribution focused.</li> \n' +
+    '</ul>\n' +
+    '<p><strong>Decide where and when to hold the meeting and confirm availability of the space</strong></p>\n' +
+    '<p>The meeting space helps to set the tone. Do you want your meeting to be informal and intimate? Choose a small room and set the chairs up in a circle. Formal and rigorous? A conference room will probably work best. Will participants be attending virtually? Make sure your equipment allows everyone to hear, participate, or see people in the room (if using video conference).</p>\n' +
+    '<p><strong>Send the invitation and preliminary agenda to key participants and stakeholders</strong></p>\n' +
+    '<p>Make sure attendees know the purpose of the meeting. Consider sending a personal invitation in addition to a calendar invite—or chatting in person with the invitee—If there’s a chance the invitation will go unnoticed or if you want to make sure that a key participant will attend.</p>\n' +
+    '<p><strong>Send any reports, pre-reading, or requests for materials that may require preparation from participants</strong></p>\n' +
+    '<p>Send out any pre-reading a day or two in advance of your meeting and make it clear that participants are expected to review materials before they arrive. Also, be prepared to highlight key takeaways from the reading for those who haven’t had time to comply.</p>\n' +
+    '<p><strong>Identify the decision-making process that will be used in the meeting</strong></p>\n' +
+    '\n' +
+    '<p>Choose a decision-making method ahead of time to ensure that you leave your meeting with a clear outcome.</p>\n' +
+    '<ul> \n' +
+    ' <li><strong>Majority vote</strong> allows every voice to be heard and is generally viewed as fair—but be aware that it may be difficult for some to declare their opinion publically.</li> \n' +
+    ' <li><strong>Group consensus</strong> allows participants to share their expertise and enhances the chance for buy-in from all parties.</li> \n' +
+    ' <li><strong>Leader’s choice</strong> is usually the fastest approach, so is most appropriate in a crisis. The risk is that some ideas will go unheard. As a result, you may need to work harder to get skeptics on board, especially during implementation.</li> \n' +
+    '</ul>\n' +
+    '<p><strong>&nbsp;Identify, arrange for, and test any required equipment</strong></p>\n' +
+    '<p>Decide if you’ll be using <a href="https://hbr.org/2015/03/the-tools-you-need-to-make-every-meeting-more-productive">collaboration or productivity tools</a> (like GoogleDocs, a screen-sharing service, or an audio recording device) during your meeting. Confirm and check the meeting space and set up or test any necessary equipment ahead of time. This step seems like a no-brainer, but sometimes it’s hard to make time for logistical details—and you don’t want to waste any of your carefully planned meeting troubleshooting technology issues. If you’re struggling, ask for help from a colleague who’s used the equipment before (or enlist an IT services representative).</p>\n' +
+    '<p><strong>Finalize the agenda and distribute it to all participants</strong></p>\n' +
+    '<p>If the agenda has changed, distribute the final version to participants. Make sure you’re ready to lead the discussion for each agenda item or that you’ve assigned items to appropriate attendees.</p>\n' +
+    '<p><strong>Follow up with invitees in person, if appropriate</strong></p>\n' +
+    '<p>Check in with people who haven’t responded to your invitation or who need to be in the room in order to have a productive meeting. If you’ve assigned roles, verify that attendees understand the parts they will play.</p>\n' +
+    '<p><strong>Prepare yourself</strong></p>\n' +
+    '<p>Have you drafted and practiced your presentation, printed handouts, and taken care of any other last-minute details? Doing the work to prepare will boost your confidence and set you up for a successful meeting.</p>\n' +
+    '\n' +
+    '<p><em>This article was adapted from <a href="https://hbr.org/product/running-meetings-20-minute-manager-series/17003-PBK-ENG?referral=02559">Running Meetings (20-Minute Manager Series)</a>.</em></p>\n' +
+    '\t\t\t\t\t<!-- citation -->\n' +
+    '\t\t\t\t</div></div>'
+}
+Requesting - https://medium.com/swlh/fobo-fear-of-better-options-is-the-reason-you-cant-make-a-decision-294fb91c18f4
+Title = Fear of Better Options (FOBO) is The Reason You Can’t Make a Tough Decision - https://medium.com/swlh/fobo-fear-of-better-options-is-the-reason-you-cant-make-a-decision-294fb91c18f4
+{
+  title: 'Fear of Better Options (FOBO) is The Reason You Can’t Make a Tough Decision - https://medium.com/swlh/fobo-fear-of-better-options-is-the-reason-you-cant-make-a-decision-294fb91c18f4',
+  data: '<div id="readability-page-1" class="page"><div><div><div><div><div><div><div><a rel="noopener" href="https://medium.com/@alltopstartups?source=post_page-----294fb91c18f4----------------------"><div><p><img alt="Thomas Oppong" src="https://miro.medium.com/fit/c/96/96/2*65nmFZIRHwW-0FnzLeCqew.jpeg" width="48" height="48"></p></div></a></div></div></div></div></div></div></div><div><div><p id="f3cf">The freedom of choice enhances feelings of autonomy, freedom and promotes one‘s sense of personal control.</p><p id="91da">But increased choice may actually be detrimental to decision-making.</p><p id="b23c">Studies conducted by Iyengar and Lepper (1999, 2000) found that those provided with fewer options in a decision-making task derived greater satisfaction from their decision outcomes.</p><blockquote><p id="7573"><em>According to research, the “fear of better options”, a phenomenon also called “</em><strong><em>maximization”</em></strong><em> is the relentless pursuit of all possible options for fear that you’ll miss out on the “best” one, leading to indecision, frustration, stress, regret, and unhappiness.</em></p></blockquote><p id="58aa">When we face too many attractive choices, we feel anxious about missing out.</p><p id="d5bc">Many peole are terrified of missing out on anything that looks exciting.</p><p id="9a8c">It’s paradoxical.</p><p id="687a">It’s perfectly normal to strive for a better option.</p><p id="9b63">But when you are obsessed with everything you are missing or will miss when you make a a decision, will constantly be in the state of indecision.</p><p id="c630">In some cases, maximizers tend to make better decisions, but they are less satisfied with those decisions than are people who make quicker ones based on less research (those people are called satisficers).</p><p id="c0f7">You’ll never be able to examine every possible option before making a decision.</p><p id="3296">Rationalists always choose the option that maximizes their satisfaction. They approach decision-making with the goal of achieving the best possible outcome.</p><p id="256f">They engage in an exhaustive search of all possible options, investing substantial time and effort in the process.</p><p id="407c">But guess what, the limitations in human cognition makes it impossible to examine each and every available option in a single decision making process.</p><p id="df92">Behavioral economists argue that the assumption of “complete information” in decision-making is unrealistic (Kahneman &amp; Tversky, 1979, 1984).</p><p id="1179">In his book, <a href="https://amzn.to/2LhYLs6" target="_blank" rel="noopener nofollow">The Paradox of Choice: Why More Is Less</a>, Barry Schwartz showed that when shoppers had to choose among 20 choices of jams (or 6 pairs jeans), they experienced conflict and were less satisfied with their final selection.</p><p id="c5e2">You are more likely to optimise (instead of satisfice) when there are too many factors to consider. Many people optimise when buying a car because of all things they have to take into consideration: price, color, reliability, safety, capacity (people and goods), warranty, appearance, etc.</p><p id="7b9e">And they normally don’t want to compromise on any of the factors. The process can be exhausting, and you can still end up with a choice you are not happy about.</p><p id="21f4">Voltaire once observed, “Don’t let the perfect be the enemy of the good.” In other words, instead of pushing yourself to an impossible “perfect,” and therefore getting nowhere, accept “good.”</p><p id="3047">“Learning to choose is hard. Learning to choose well is harder. And learning to choose well in a world of unlimited possibilities is harder still, perhaps too hard.” ― Barry Schwartz</p><p id="18ce">Satisficing is a decision-making strategy that aims for a satisfactory or adequate result, rather than the optimal solution.</p><p id="7da3">Satisficers use aspiration levels when choosing from different paths of action.</p><p id="04ed">They select the first option that meets a given need or select the option that seems to address most needs rather than the “optimal” solution.</p><p id="f0d9">Herbert Simon (1955, 1956) introduced this theory more than half a century ago. He proposed that rather than maximize, you should “satisfice” when making decisions.</p><p id="5b74">Satisficers are pleased to settle for a good enough option, not necessarily the very best outcome in all respects.</p><p id="4d3d">A <a href="http://psycnet.apa.org/record/2002-18731-012" target="_blank" rel="noopener nofollow">satisficer</a> is less likely to experience regret even if a better option presents itself after a decision has already been made.</p><p id="48ca">Steps for for making a decision without aiming for maximisation, according to Schwartz:</p><blockquote><p id="fbe3"><em>“Most good decisions will involve these steps: Figure out your goal or goals. Evaluate the importance of each goal. Array the options. Evaluate how likely each of the options is to meet your goals. Pick the winning option. Later use the consequences of your choice to modify your goals, the importance you assign them, and the way you evaluate future possibilities.”</em></p></blockquote><p id="1d48">In the many decision-making processes you take, you can make “best” choices: be intuitive, don’t worry too much about getting the very best all the time, and evaluate each outcome on its own merits rather than against others.</p><p id="3007">Make life easier on yourself by accepting “good enough”. <a target="_blank" rel="noopener" href="https://medium.com/personal-growth/make-life-easier-on-yourself-by-accepting-good-enough-accept-the-lack-of-perfect-5bac47c98ec8">I wrote a post about it here</a>. “Good enough is the new perfect,” says Becky Beaupre Gillespie.</p><p id="a63f"><strong>Want to Think Better And Make Smarter Decisions? </strong>Join my <a href="https://thinkinginmodels.co/courses/thinking-in-models" target="_blank" rel="noopener nofollow">Thinking in Models</a> community and upgrade your thinking habits. It’s designed to help you think clearly, work better, solve problems at multiple levels of depths, and make complex decisions with confidence! <a href="https://thinkinginmodels.co/" target="_blank" rel="noopener nofollow">Click here for details</a>.</p><p id="f220">You can also subscribe to <a href="https://postanly.ongoodbits.com/" target="_blank" rel="noopener nofollow">Postanly Weekly</a>(my free weekly digest of the best posts about behaviour change that affect health, wealth, and productivity). Join over 46,000 people on a mission to build a better life.</p></div></div></div>'
+}
+Undefined url detected
+[Download Success] https://miro.medium.com/fit/c/96/96/1*tHD1YMgJzsMXUMj7GX3oVw.jpeg
+[Download Success] https://miro.medium.com/fit/c/96/96/2*65nmFZIRHwW-0FnzLeCqew.jpeg
+[Download Success] https://hbr.org/resources/images/article_assets/2015/03/MAR15_26_checklist.png
+[Download Success] https://multithreaded.stitchfix.com/assets/posts/2019-12-19-good-marketing-decisions/client-dag.png
+[Download Success] https://multithreaded.stitchfix.com/assets/posts/2019-12-19-good-marketing-decisions/make-good-decisions-header.png
+[Download Success] https://hbr.org/resources/images/article_assets/2015/03/W150319_HBRSTAFF_MEETINGPREPARATION-754x1024.png
+[Download Success] https://hbr.org/resources/images/article_assets/2015/03/17003E_500.png
+[Download Success] https://miro.medium.com/max/60/1*IREyC769qhABBk0NBumofg.jpeg?q=20
+[Download Success] https://multithreaded.stitchfix.com/assets/posts/2019-12-19-good-marketing-decisions/google-stitchfix.png
+[Download Success] https://multithreaded.stitchfix.com/assets/posts/2019-12-19-good-marketing-decisions/google-food-delivery-now.png
+[Success] cover image downloaded successfully!
+Zipping temp dir to /Users/varun/code/readability/tempDir/decision.epub
+Done zipping, clearing temp dir...
