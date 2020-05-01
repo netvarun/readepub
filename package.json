@@ -40,7 +40,7 @@
     "epub-gen": "^0.1.0",
     "get-urls": "^9.2.0",
     "html-entities": "^1.2.1",
-    "minimist": "^1.2.0",
+    "minimist": "^1.2.3",
     "sync-request": "^6.1.0",
     "url-parse": "^1.4.7"
   }
